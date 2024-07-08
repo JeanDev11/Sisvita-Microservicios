@@ -1,0 +1,85 @@
+version: '3.8'
+
+services:
+  usuarios_db:
+    image: postgres
+    environment:
+      POSTGRES_DB: ${USUARIOS_DB}
+      POSTGRES_USER: ${USUARIOS_USER}
+      POSTGRES_PASSWORD: ${USUARIOS_PASSWORD}
+    volumes:
+      - usuarios_db_data:/var/lib/postgresql/data
+      - ./db/usuarios/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5450:5432"
+    env_file:
+      - .env
+
+  usuarios_service:
+    build:
+      context: ./usuarios_service
+    environment:
+      - DATABASE_URI=postgresql://${USUARIOS_USER}:${USUARIOS_PASSWORD}@usuarios_db:5432/${USUARIOS_DB}
+    depends_on:
+      - usuarios_db
+    ports:
+      - "${USUARIOS_SERVICE_PORT}:5000"
+    env_file:
+      - .env
+
+  # diagnosticos_db:
+  #   image: postgres
+  #   environment:
+  #     POSTGRES_DB: ${DIAGNOSTICOS_DB}
+  #     POSTGRES_USER: ${DIAGNOSTICOS_USER}
+  #     POSTGRES_PASSWORD: ${DIAGNOSTICOS_PASSWORD}
+  #   volumes:
+  #     - diagnosticos_db_data:/var/lib/postgresql/data
+  #     - ./db/diagnosticos/init.sql:/docker-entrypoint-initdb.d/init.sql
+  #   ports:
+  #     - "5451:5432"
+  #   env_file:
+  #     - .env
+
+  # diagnosticos_service:
+  #   build:
+  #     context: ./diagnosticos_service
+  #   environment:
+  #     - DATABASE_URI=postgresql://${DIAGNOSTICOS_USER}:${DIAGNOSTICOS_PASSWORD}@diagnosticos_db:5432/${DIAGNOSTICOS_DB}
+  #   depends_on:
+  #     - diagnosticos_db
+  #   ports:
+  #     - "${DIAGNOSTICOS_SERVICE_PORT}:5000"
+  #   env_file:
+  #     - .env
+
+  # tests_db:
+  #   image: postgres
+  #   environment:
+  #     POSTGRES_DB: ${TESTS_DB}
+  #     POSTGRES_USER: ${TESTS_USER}
+  #     POSTGRES_PASSWORD: ${TESTS_PASSWORD}
+  #   volumes:
+  #     - tests_db_data:/var/lib/postgresql/data
+  #     - ./db/tests/init.sql:/docker-entrypoint-initdb.d/init.sql
+  #   ports:
+  #     - "5452:5432"
+  #   env_file:
+  #     - .env
+
+  # tests_service:
+  #   build:
+  #     context: ./tests_service
+  #   environment:
+  #     - DATABASE_URI=postgresql://${TESTS_USER}:${TESTS_PASSWORD}@tests_db:5432/${TESTS_DB}
+  #   depends_on:
+  #     - tests_db
+  #   ports:
+  #     - "${TESTS_SERVICE_PORT}:5000"
+  #   env_file:
+  #     - .env
+
+volumes:
+  usuarios_db_data:
+  # diagnosticos_db_data:
+  # tests_db_data:
