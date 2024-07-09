@@ -40,3 +40,15 @@ Para detener todos los servicios:
 ## Ejecutar los Contenedores en Segundo Plano
 Para ejecutar los contenedores en segundo plano, usa el flag -d:
 `docker-compose up --build -d`
+
+## Visualizar logs
+Para ver los logs cuando ejecutas en modo detached, puedes usar.
+`docker-compose logs -f`
+
+## Eliminar el volumen persistente
+Para eliminar todos los datos actuales y forzar una nueva inicialización.
+`docker-compose down -v`
+
+## Reconstrución
+Si necesitas reconstruir solo un servicio específico.
+`docker-compose up --build nombre_del_servicio`

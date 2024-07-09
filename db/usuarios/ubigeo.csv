@@ -1,0 +1,1875 @@
+﻿id_ubigeo;distrito;provincia;departamento;latitud;longitud
+010101;Chachapoyas;Chachapoyas;Amazonas;-6.2294;-77.8714
+010102;Asuncion;Chachapoyas;Amazonas;-6.0317;-77.7122
+010103;Balsas;Chachapoyas;Amazonas;-6.8375;-78.0214
+010104;Cheto;Chachapoyas;Amazonas;-6.2558;-77.7003
+010105;Chiliquin;Chachapoyas;Amazonas;-6.0778;-77.7392
+010106;Chuquibamba;Chachapoyas;Amazonas;-6.9333;-77.8575
+010107;Granada;Chachapoyas;Amazonas;-6.0997;-77.6344
+010108;Huancas;Chachapoyas;Amazonas;-6.1747;-77.8686
+010109;La Jalca;Chachapoyas;Amazonas;-6.4825;-77.8192
+010110;Leimebamba;Chachapoyas;Amazonas;-6.6636;-77.8006
+010111;Levanto;Chachapoyas;Amazonas;-6.3086;-77.8994
+010112;Magdalena;Chachapoyas;Amazonas;-6.3736;-77.9017
+010113;Mariscal Castilla;Chachapoyas;Amazonas;-6.5939;-77.8053
+010114;Molinopampa;Chachapoyas;Amazonas;-6.2056;-77.6683
+010115;Montevideo;Chachapoyas;Amazonas;-6.6133;-77.8025
+010116;Olleros;Chachapoyas;Amazonas;-6.0239;-77.6761
+010117;Quinjalca;Chachapoyas;Amazonas;-6.085;-77.66
+010118;San Francisco de Daguas;Chachapoyas;Amazonas;-6.2333;-77.7392
+010119;San Isidro de Maino;Chachapoyas;Amazonas;-6.3533;-77.8439
+010120;Soloco;Chachapoyas;Amazonas;-6.2619;-77.7453
+010121;Sonche;Chachapoyas;Amazonas;-6.2183;-77.7753
+010201;Bagua;Bagua;Amazonas;-5.6389;-78.5319
+010202;Aramango;Bagua;Amazonas;-5.4156;-78.4361
+010203;Copallin;Bagua;Amazonas;-5.6733;-78.4228
+010204;El Parco;Bagua;Amazonas;-5.6247;-78.4764
+010205;Imaza;Bagua;Amazonas;-5.16;-78.2903
+010206;La Peca;Bagua;Amazonas;-5.6092;-78.4344
+010301;Jumbilla;Bongara;Amazonas;-5.9006;-77.7958
+010302;Chisquilla;Bongara;Amazonas;-5.9003;-77.7839
+010303;Churuja;Bongara;Amazonas;-6.0192;-77.9517
+010304;Corosha;Bongara;Amazonas;-5.8294;-77.84
+010305;Cuispes;Bongara;Amazonas;-5.9236;-77.9392
+010306;Florida;Bongara;Amazonas;-5.8336;-77.9714
+010307;Jazan;Bongara;Amazonas;-5.9419;-77.9806
+010308;Recta;Bongara;Amazonas;-5.9194;-77.7861
+010309;San Carlos;Bongara;Amazonas;-5.9636;-77.9447
+010310;Shipasbamba;Bongara;Amazonas;-5.8744;-78.0692
+010311;Valera;Bongara;Amazonas;-6.0425;-77.9139
+010312;Yambrasbamba;Bongara;Amazonas;-5.6908;-77.9772
+010401;Nieva;Condorcanqui;Amazonas;-4.5947;-77.8672
+010402;El Cenepa;Condorcanqui;Amazonas;-4.4503;-78.1592
+010403;Rio Santiago;Condorcanqui;Amazonas;-4.0106;-77.7658
+010501;Lamud;Luya;Amazonas;-6.1308;-77.9503
+010502;Camporredondo;Luya;Amazonas;-6.2136;-78.3186
+010503;Cocabamba;Luya;Amazonas;-6.6297;-78.0303
+010504;Colcamar;Luya;Amazonas;-6.3175;-78.0019
+010505;Conila;Luya;Amazonas;-6.1592;-78.1419
+010506;Inguilpata;Luya;Amazonas;-6.2428;-77.9561
+010507;Longuita;Luya;Amazonas;-6.4147;-77.9681
+010508;Lonya Chico;Luya;Amazonas;-6.2328;-77.9564
+010509;Luya;Luya;Amazonas;-6.165;-77.9469
+010510;Luya Viejo;Luya;Amazonas;-6.1275;-78.0847
+010511;Maria;Luya;Amazonas;-6.4517;-77.9733
+010512;Ocalli;Luya;Amazonas;-6.2347;-78.2667
+010513;Ocumal;Luya;Amazonas;-6.3061;-78.2294
+010514;Pisuquia;Luya;Amazonas;-6.5114;-78.0747
+010515;Providencia;Luya;Amazonas;-6.3108;-78.2503
+010516;San Cristobal;Luya;Amazonas;-6.0997;-77.9525
+010517;San Francisco del Yeso;Luya;Amazonas;-6.5861;-77.8469
+010518;San Jeronimo;Luya;Amazonas;-6.0344;-77.9669
+010519;San Juan de Lopecancha;Luya;Amazonas;-6.4572;-77.8969
+010520;Santa Catalina;Luya;Amazonas;-6.1117;-78.0633
+010521;Santo Tomas;Luya;Amazonas;-6.5617;-77.8739
+010522;Tingo;Luya;Amazonas;-6.3761;-77.9056
+010523;Trita;Luya;Amazonas;-6.1519;-77.9806
+010601;San Nicolas;Rodriguez de Mendoza;Amazonas;-6.3956;-77.4831
+010602;Chirimoto;Rodriguez de Mendoza;Amazonas;-6.5283;-77.4869
+010603;Cochamal;Rodriguez de Mendoza;Amazonas;-6.3933;-77.5889
+010604;Huambo;Rodriguez de Mendoza;Amazonas;-6.4275;-77.5369
+010605;Limabamba;Rodriguez de Mendoza;Amazonas;-6.5025;-77.5097
+010606;Longar;Rodriguez de Mendoza;Amazonas;-6.3853;-77.5461
+010607;Mariscal Benavides;Rodriguez de Mendoza;Amazonas;-6.3697;-77.5003
+010608;Milpuc;Rodriguez de Mendoza;Amazonas;-6.4983;-77.4358
+010609;Omia;Rodriguez de Mendoza;Amazonas;-6.4686;-77.3947
+010610;Santa Rosa;Rodriguez de Mendoza;Amazonas;-6.4542;-77.4539
+010611;Totora;Rodriguez de Mendoza;Amazonas;-6.4914;-77.4711
+010612;Vista Alegre;Rodriguez de Mendoza;Amazonas;-6.1514;-77.3019
+010701;Bagua Grande;Utcubamba;Amazonas;-5.7558;-78.4428
+010702;Cajaruro;Utcubamba;Amazonas;-5.7364;-78.4267
+010703;Cumba;Utcubamba;Amazonas;-5.9317;-78.6653
+010704;El Milagro;Utcubamba;Amazonas;-5.6367;-78.5578
+010705;Jamalca;Utcubamba;Amazonas;-5.9158;-78.2203
+010706;Lonya Grande;Utcubamba;Amazonas;-6.0956;-78.4219
+010707;Yamon;Utcubamba;Amazonas;-6.0525;-78.5322
+020101;Huaraz;Huaraz;Ancash;-9.5272;-77.5333
+020102;Cochabamba;Huaraz;Ancash;-9.4939;-77.8619
+020103;Colcabamba;Huaraz;Ancash;-9.5956;-77.8108
+020104;Huanchay;Huaraz;Ancash;-9.7236;-77.8197
+020105;Independencia;Huaraz;Ancash;-9.5189;-77.5344
+020106;Jangas;Huaraz;Ancash;-9.4014;-77.5767
+020107;La Libertad;Huaraz;Ancash;-9.6333;-77.7442
+020108;Olleros;Huaraz;Ancash;-9.6664;-77.4661
+020109;Pampas;Huaraz;Ancash;-9.6556;-77.8272
+020110;Pariacoto;Huaraz;Ancash;-9.5622;-77.8931
+020111;Pira;Huaraz;Ancash;-9.5814;-77.7075
+020112;Tarica;Huaraz;Ancash;-9.3919;-77.5769
+020201;Aija;Aija;Ancash;-9.7819;-77.6114
+020202;Coris;Aija;Ancash;-9.8211;-77.7225
+020203;Huacllan;Aija;Ancash;-9.7975;-77.6747
+020204;La Merced;Aija;Ancash;-9.7361;-77.6189
+020205;Succha;Aija;Ancash;-9.8242;-77.6497
+020301;Llamellin;Antonio Raymondi;Ancash;-9.1006;-77.0183
+020302;Aczo;Antonio Raymondi;Ancash;-9.1525;-76.9903
+020303;Chaccho;Antonio Raymondi;Ancash;-9.0586;-77.0594
+020304;Chingas;Antonio Raymondi;Ancash;-9.12;-76.9947
+020305;Mirgas;Antonio Raymondi;Ancash;-9.0792;-77.0933
+020306;San Juan de Rontoy;Antonio Raymondi;Ancash;-9.1803;-77.0044
+020401;Chacas;Asuncion;Ancash;-9.1622;-77.3694
+020402;Acochaca;Asuncion;Ancash;-9.1139;-77.3697
+020501;Chiquian;Bolognesi;Ancash;-10.1517;-77.1586
+020502;Abelardo Pardo Lezameta;Bolognesi;Ancash;-10.2992;-77.1508
+020503;Antonio Raymondi;Bolognesi;Ancash;-10.1575;-77.4703
+020504;Aquia;Bolognesi;Ancash;-10.0742;-77.1464
+020505;Cajacay;Bolognesi;Ancash;-10.1564;-77.4419
+020506;Canis;Bolognesi;Ancash;-10.3381;-77.1711
+020507;Colquioc;Bolognesi;Ancash;-10.3117;-77.6156
+020508;Huallanca;Bolognesi;Ancash;-9.8994;-76.9444
+020509;Huasta;Bolognesi;Ancash;-10.1225;-77.1458
+020510;Huayllacayan;Bolognesi;Ancash;-10.2436;-77.4342
+020511;La Primavera;Bolognesi;Ancash;-10.3344;-77.1253
+020512;Mangas;Bolognesi;Ancash;-10.3694;-77.1039
+020513;Pacllon;Bolognesi;Ancash;-10.2333;-77.0722
+020514;San Miguel de Corpanqui;Bolognesi;Ancash;-10.285;-77.2
+020515;Ticllos;Bolognesi;Ancash;-10.2522;-77.1911
+020601;Carhuaz;Carhuaz;Ancash;-9.2806;-77.6469
+020602;Acopampa;Carhuaz;Ancash;-9.2942;-77.6225
+020603;Amashca;Carhuaz;Ancash;-9.2392;-77.6464
+020604;Anta;Carhuaz;Ancash;-9.3569;-77.5978
+020605;Ataquero;Carhuaz;Ancash;-9.2625;-77.6914
+020606;Marcara;Carhuaz;Ancash;-9.3211;-77.6033
+020607;Pariahuanca;Carhuaz;Ancash;-9.3642;-77.5828
+020608;San Miguel de Aco;Carhuaz;Ancash;-9.3678;-77.5644
+020609;Shilla;Carhuaz;Ancash;-9.2306;-77.6256
+020610;Tinco;Carhuaz;Ancash;-9.2711;-77.6819
+020611;Yungar;Carhuaz;Ancash;-9.3778;-77.5931
+020701;San Luis;Carlos Fermin Fitzca;Ancash;-9.0933;-77.3331
+020702;San Nicolas;Carlos Fermin Fitzca;Ancash;-8.9767;-77.1842
+020703;Yauya;Carlos Fermin Fitzca;Ancash;-8.9875;-77.2894
+020801;Casma;Casma;Ancash;-9.475;-78.3036
+020802;Buena Vista Alta;Casma;Ancash;-9.4289;-78.2047
+020803;Comandante Noel;Casma;Ancash;-9.4622;-78.3831
+020804;Yautan;Casma;Ancash;-9.5097;-77.9956
+020901;Corongo;Corongo;Ancash;-8.5683;-77.8967
+020902;Aco;Corongo;Ancash;-8.5228;-77.8769
+020903;Bambas;Corongo;Ancash;-8.6022;-77.9925
+020904;Cusca;Corongo;Ancash;-8.5106;-77.8631
+020905;La Pampa;Corongo;Ancash;-8.6619;-77.9011
+020906;Yanac;Corongo;Ancash;-8.6178;-77.8636
+020907;Yupan;Corongo;Ancash;-8.615;-77.9661
+021001;Huari;Huari;Ancash;-9.3478;-77.1725
+021002;Anra;Huari;Ancash;-9.2347;-76.9253
+021003;Cajay;Huari;Ancash;-9.3253;-77.1569
+021004;Chavin de Huantar;Huari;Ancash;-9.5869;-77.1772
+021005;Huacachi;Huari;Ancash;-9.3164;-76.9356
+021006;Huacchis;Huari;Ancash;-9.2;-76.7875
+021007;Huachis;Huari;Ancash;-9.4097;-77.1003
+021008;Huantar;Huari;Ancash;-9.4517;-77.175
+021009;Masin;Huari;Ancash;-9.3653;-77.0958
+021010;Paucas;Huari;Ancash;-9.1522;-76.8983
+021011;Ponto;Huari;Ancash;-9.325;-77.0047
+021012;Rahuapampa;Huari;Ancash;-9.3592;-77.0772
+021013;Rapayan;Huari;Ancash;-9.2053;-76.7611
+021014;San Marcos;Huari;Ancash;-9.525;-77.1575
+021015;San Pedro de Chana;Huari;Ancash;-9.4025;-77.0117
+021016;Uco;Huari;Ancash;-9.1886;-76.9269
+021101;Huarmey;Huarmey;Ancash;-10.0697;-78.1517
+021102;Cochapeti;Huarmey;Ancash;-9.9872;-77.6467
+021103;Culebras;Huarmey;Ancash;-9.9486;-78.2247
+021104;Huayan;Huarmey;Ancash;-9.8761;-77.7081
+021105;Malvas;Huarmey;Ancash;-9.9294;-77.6581
+021201;Caraz;Huaylas;Ancash;-9.0472;-77.8108
+021202;Huallanca;Huaylas;Ancash;-8.8194;-77.8653
+021203;Huata;Huaylas;Ancash;-9.0167;-77.8625
+021204;Huaylas;Huaylas;Ancash;-8.8694;-77.8925
+021205;Mato;Huaylas;Ancash;-8.9617;-77.8456
+021206;Pamparomas;Huaylas;Ancash;-9.0731;-77.9819
+021207;Pueblo Libre;Huaylas;Ancash;-9.1117;-77.8025
+021208;Santa Cruz;Huaylas;Ancash;-8.9486;-77.815
+021209;Santo Toribio;Huaylas;Ancash;-8.8644;-77.915
+021210;Yuracmarca;Huaylas;Ancash;-8.7364;-77.9036
+021301;Piscobamba;Mariscal Luzuriaga;Ancash;-8.8611;-77.3567
+021302;Casca;Mariscal Luzuriaga;Ancash;-8.8553;-77.3919
+021303;Eleazar Guzman Barron;Mariscal Luzuriaga;Ancash;-8.8997;-77.2419
+021304;Fidel Olivas Escudero;Mariscal Luzuriaga;Ancash;-8.8067;-77.2806
+021305;Llama;Mariscal Luzuriaga;Ancash;-8.9142;-77.2994
+021306;Llumpa;Mariscal Luzuriaga;Ancash;-8.9467;-77.3669
+021307;Lucma;Mariscal Luzuriaga;Ancash;-8.9194;-77.4097
+021308;Musga;Mariscal Luzuriaga;Ancash;-8.9061;-77.3372
+021401;Ocros;Ocros;Ancash;-10.4058;-77.3958
+021402;Acas;Ocros;Ancash;-10.4592;-77.3283
+021403;Cajamarquilla;Ocros;Ancash;-10.355;-77.1997
+021404;Carhuapampa;Ocros;Ancash;-10.4969;-77.2428
+021405;Cochas;Ocros;Ancash;-10.535;-77.4236
+021406;Congas;Ocros;Ancash;-10.3361;-77.4419
+021407;Llipa;Ocros;Ancash;-10.3808;-77.2067
+021408;San Cristobal de Rajan;Ocros;Ancash;-10.3858;-77.2192
+021409;San Pedro;Ocros;Ancash;-10.3706;-77.4875
+021410;Santiago de Chilcas;Ocros;Ancash;-10.4381;-77.3669
+021501;Cabana;Pallasca;Ancash;-8.3928;-78.0089
+021502;Bolognesi;Pallasca;Ancash;-8.3517;-78.0506
+021503;Conchucos;Pallasca;Ancash;-8.2658;-77.8483
+021504;Huacaschuque;Pallasca;Ancash;-8.3061;-78.0031
+021505;Huandoval;Pallasca;Ancash;-8.3272;-77.9728
+021506;Lacabamba;Pallasca;Ancash;-8.2583;-77.8958
+021507;Llapo;Pallasca;Ancash;-8.5111;-78.0397
+021508;Pallasca;Pallasca;Ancash;-8.2494;-77.9972
+021509;Pampas;Pallasca;Ancash;-8.1925;-77.8931
+021510;Santa Rosa;Pallasca;Ancash;-8.5239;-78.065
+021511;Tauca;Pallasca;Ancash;-8.4717;-78.0347
+021601;Pomabamba;Pomabamba;Ancash;-8.8147;-77.4592
+021602;Huayllan;Pomabamba;Ancash;-8.8547;-77.4336
+021603;Parobamba;Pomabamba;Ancash;-8.6886;-77.4294
+021604;Quinuabamba;Pomabamba;Ancash;-8.6944;-77.3978
+021701;Recuay;Recuay;Ancash;-9.7214;-77.455
+021702;Catac;Recuay;Ancash;-9.8017;-77.4303
+021703;Cotaparaco;Recuay;Ancash;-9.9931;-77.5878
+021704;Huayllapampa;Recuay;Ancash;-10.055;-77.535
+021705;Llacllin;Recuay;Ancash;-10.07;-77.6222
+021706;Marca;Recuay;Ancash;-10.0878;-77.4747
+021707;Pampas Chico;Recuay;Ancash;-10.1147;-77.3981
+021708;Pararin;Recuay;Ancash;-10.0497;-77.6533
+021709;Tapacocha;Recuay;Ancash;-10.0097;-77.5681
+021710;Ticapampa;Recuay;Ancash;-9.7578;-77.4444
+021801;Chimbote;Santa;Ancash;-9.0758;-78.5842
+021802;Caceres del Peru;Santa;Ancash;-9.0131;-78.1403
+021803;Coishco;Santa;Ancash;-9.0239;-78.6181
+021804;Macate;Santa;Ancash;-8.7603;-78.0603
+021805;Moro;Santa;Ancash;-9.1378;-78.1844
+021806;Nepeña;Santa;Ancash;-9.1731;-78.3597
+021807;Samanco;Santa;Ancash;-8.9878;-78.6161
+021808;Santa;Santa;Ancash;-9.1156;-78.5314
+021809;Nuevo Chimbote;Santa;Ancash;-9.2606;-78.4994
+021901;Sihuas;Sihuas;Ancash;-8.5556;-77.6344
+021902;Acobamba;Sihuas;Ancash;-8.3264;-77.585
+021903;Alfonso Ugarte;Sihuas;Ancash;-8.455;-77.4292
+021904;Cashapampa;Sihuas;Ancash;-8.5617;-77.6558
+021905;Chingalpo;Sihuas;Ancash;-8.3394;-77.5992
+021906;Huayllabamba;Sihuas;Ancash;-8.535;-77.5689
+021907;Quiches;Sihuas;Ancash;-8.3944;-77.4933
+021908;Ragash;Sihuas;Ancash;-8.5308;-77.6692
+021909;San Juan;Sihuas;Ancash;-8.6461;-77.5808
+021910;Sicsibamba;Sihuas;Ancash;-8.6236;-77.5367
+022001;Yungay;Yungay;Ancash;-9.1375;-77.7475
+022002;Cascapara;Yungay;Ancash;-9.2261;-77.7197
+022003;Mancos;Yungay;Ancash;-9.1911;-77.7164
+022004;Matacoto;Yungay;Ancash;-9.1775;-77.7494
+022005;Quillo;Yungay;Ancash;-9.3297;-78.0431
+022006;Ranrahirca;Yungay;Ancash;-9.1725;-77.725
+022007;Shupluy;Yungay;Ancash;-9.2183;-77.6975
+022008;Yanama;Yungay;Ancash;-9.0222;-77.4744
+030101;Abancay;Abancay;Apurimac;-13.6367;-72.8792
+030102;Chacoche;Abancay;Apurimac;-13.9417;-72.9897
+030103;Circa;Abancay;Apurimac;-13.8778;-72.8736
+030104;Curahuasi;Abancay;Apurimac;-13.5417;-72.6953
+030105;Huanipaca;Abancay;Apurimac;-13.4917;-72.9397
+030106;Lambrama;Abancay;Apurimac;-13.8706;-72.7728
+030107;Pichirhua;Abancay;Apurimac;-13.8606;-73.0736
+030108;San Pedro de Cachora;Abancay;Apurimac;-13.5144;-72.8161
+030109;Tamburco;Abancay;Apurimac;-13.6211;-72.8725
+030201;Andahuaylas;Andahuaylas;Apurimac;-13.6561;-73.3847
+030202;Andarapa;Andahuaylas;Apurimac;-13.5264;-73.3681
+030203;Chiara;Andahuaylas;Apurimac;-13.8681;-73.6681
+030204;Huancarama;Andahuaylas;Apurimac;-13.6467;-73.0856
+030205;Huancaray;Andahuaylas;Apurimac;-13.7578;-73.5275
+030206;Huayana;Andahuaylas;Apurimac;-14.0503;-73.6097
+030207;Kishuara;Andahuaylas;Apurimac;-13.6914;-73.1214
+030208;Pacobamba;Andahuaylas;Apurimac;-13.6167;-73.0872
+030209;Pacucha;Andahuaylas;Apurimac;-13.6089;-73.3442
+030210;Pampachiri;Andahuaylas;Apurimac;-14.1861;-73.5436
+030211;Pomacocha;Andahuaylas;Apurimac;-14.085;-73.5911
+030212;San Antonio de Cachi;Andahuaylas;Apurimac;-13.7733;-73.6036
+030213;San Jeronimo;Andahuaylas;Apurimac;-13.6506;-73.3656
+030214;San Miguel de Chaccrampa;Andahuaylas;Apurimac;-13.9594;-73.6086
+030215;Santa Maria de Chicmo;Andahuaylas;Apurimac;-13.6578;-73.4931
+030216;Talavera;Andahuaylas;Apurimac;-13.6536;-73.4278
+030217;Tumay Huaraca;Andahuaylas;Apurimac;-14.0539;-73.5689
+030218;Turpo;Andahuaylas;Apurimac;-13.7856;-73.4728
+030219;Kaquiabamba;Andahuaylas;Apurimac;-13.5369;-73.2878
+030220;José María Arguedas;Andahuaylas;Apurimac;-13.7336;-73.3503
+030301;Antabamba;Antabamba;Apurimac;-14.3653;-72.8778
+030302;El Oro;Antabamba;Apurimac;-14.2092;-73.0583
+030303;Huaquirca;Antabamba;Apurimac;-14.3369;-72.8936
+030304;Juan Espinoza Medrano;Antabamba;Apurimac;-14.4286;-72.9147
+030305;Oropesa;Antabamba;Apurimac;-14.2628;-72.5639
+030306;Pachaconas;Antabamba;Apurimac;-14.2244;-73.0147
+030307;Sabaino;Antabamba;Apurimac;-14.3122;-72.9442
+030401;Chalhuanca;Aymaraes;Apurimac;-14.295;-73.2431
+030402;Capaya;Aymaraes;Apurimac;-14.1181;-73.3217
+030403;Caraybamba;Aymaraes;Apurimac;-14.3783;-73.1608
+030404;Chapimarca;Aymaraes;Apurimac;-13.9747;-73.0644
+030405;Colcabamba;Aymaraes;Apurimac;-14.005;-73.2519
+030406;Cotaruse;Aymaraes;Apurimac;-14.4164;-73.2053
+030407;Huayllo;Aymaraes;Apurimac;-14.1331;-73.2686
+030408;Justo Apu Sahuaraura;Aymaraes;Apurimac;-14.1489;-73.1758
+030409;Lucre;Aymaraes;Apurimac;-13.9506;-73.2253
+030410;Pocohuanca;Aymaraes;Apurimac;-14.22;-73.0881
+030411;San Juan de Chacña;Aymaraes;Apurimac;-13.9239;-73.1828
+030412;Sañayca;Aymaraes;Apurimac;-14.2036;-73.3461
+030413;Soraya;Aymaraes;Apurimac;-14.1656;-73.3139
+030414;Tapairihua;Aymaraes;Apurimac;-14.1408;-73.1431
+030415;Tintay;Aymaraes;Apurimac;-13.9592;-73.1867
+030416;Toraya;Aymaraes;Apurimac;-14.0522;-73.2958
+030417;Yanaca;Aymaraes;Apurimac;-14.225;-73.1589
+030501;Tambobamba;Cotabambas;Apurimac;-13.945;-72.1769
+030502;Cotabambas;Cotabambas;Apurimac;-13.7458;-72.3567
+030503;Coyllurqui;Cotabambas;Apurimac;-13.8367;-72.4339
+030504;Haquira;Cotabambas;Apurimac;-14.2153;-72.1903
+030505;Mara;Cotabambas;Apurimac;-14.0864;-72.1025
+030506;Challhuahuacho;Cotabambas;Apurimac;-14.1192;-72.2486
+030601;Chincheros;Chincheros;Apurimac;-13.5175;-73.7222
+030602;Anco_Huallo;Chincheros;Apurimac;-13.5328;-73.6769
+030603;Cocharcas;Chincheros;Apurimac;-13.61;-73.7408
+030604;Huaccana;Chincheros;Apurimac;-13.3872;-73.69
+030605;Ocobamba;Chincheros;Apurimac;-13.4828;-73.5617
+030606;Ongoy;Chincheros;Apurimac;-13.4031;-73.6697
+030607;Uranmarca;Chincheros;Apurimac;-13.6728;-73.6686
+030608;Ranracancha;Chincheros;Apurimac;-13.5322;-73.6056
+030609;Rocchacc;Chincheros;Apurimac;-13.44;-73.5997
+030610;El Porvenir;Chincheros;Apurimac;-13.3975;-73.595
+030611;Los Chankas;Chincheros;Apurimac;-13.4353;-73.8219
+030701;Chuquibambilla;Grau;Apurimac;-14.1042;-72.7086
+030702;Curpahuasi;Grau;Apurimac;-14.0631;-72.6714
+030703;Gamarra;Grau;Apurimac;-13.8728;-72.5122
+030704;Huayllati;Grau;Apurimac;-13.9283;-72.4847
+030705;Mamara;Grau;Apurimac;-14.2275;-72.5906
+030706;Micaela Bastidas;Grau;Apurimac;-14.115;-72.6136
+030707;Pataypampa;Grau;Apurimac;-14.1775;-72.6706
+030708;Progreso;Grau;Apurimac;-14.0742;-72.4744
+030709;San Antonio;Grau;Apurimac;-14.1689;-72.6233
+030710;Santa Rosa;Grau;Apurimac;-14.1408;-72.6586
+030711;Turpay;Grau;Apurimac;-14.2283;-72.6253
+030712;Vilcabamba;Grau;Apurimac;-14.0758;-72.625
+030713;Virundo;Grau;Apurimac;-14.2506;-72.6811
+030714;Curasco;Grau;Apurimac;-14.0606;-72.5672
+040101;Arequipa;Arequipa;Arequipa;-16.4008;-71.5378
+040102;Alto Selva Alegre;Arequipa;Arequipa;-16.3706;-71.5272
+040103;Cayma;Arequipa;Arequipa;-16.3881;-71.5492
+040104;Cerro Colorado;Arequipa;Arequipa;-16.375;-71.5611
+040105;Characato;Arequipa;Arequipa;-16.4706;-71.4897
+040106;Chiguata;Arequipa;Arequipa;-16.4025;-71.3939
+040107;Jacobo Hunter;Arequipa;Arequipa;-16.4467;-71.5556
+040108;La Joya;Arequipa;Arequipa;-16.4239;-71.8206
+040109;Mariano Melgar;Arequipa;Arequipa;-16.4058;-71.5117
+040110;Miraflores;Arequipa;Arequipa;-16.395;-71.5211
+040111;Mollebaya;Arequipa;Arequipa;-16.4883;-71.4686
+040112;Paucarpata;Arequipa;Arequipa;-16.4233;-71.5083
+040113;Pocsi;Arequipa;Arequipa;-16.5172;-71.3925
+040114;Polobaya;Arequipa;Arequipa;-16.5606;-71.3747
+040115;Quequeña;Arequipa;Arequipa;-16.5586;-71.4544
+040116;Sabandia;Arequipa;Arequipa;-16.4561;-71.495
+040117;Sachaca;Arequipa;Arequipa;-16.4286;-71.5678
+040118;San Juan de Siguas;Arequipa;Arequipa;-16.3461;-72.1314
+040119;San Juan de Tarucani;Arequipa;Arequipa;-16.1839;-71.0656
+040120;Santa Isabel de Siguas;Arequipa;Arequipa;-16.3197;-72.1028
+040121;Santa Rita de Siguas;Arequipa;Arequipa;-16.4928;-72.0944
+040122;Socabaya;Arequipa;Arequipa;-16.4522;-71.5308
+040123;Tiabaya;Arequipa;Arequipa;-16.4489;-71.5908
+040124;Uchumayo;Arequipa;Arequipa;-16.425;-71.6722
+040125;Vitor;Arequipa;Arequipa;-16.4658;-71.9389
+040126;Yanahuara;Arequipa;Arequipa;-16.395;-71.5539
+040127;Yarabamba;Arequipa;Arequipa;-16.5481;-71.4775
+040128;Yura;Arequipa;Arequipa;-16.245;-71.6931
+040129;Jose Luis Bustamante y Rivero;Arequipa;Arequipa;-16.4344;-71.5175
+040201;Camana;Camana;Arequipa;-16.6236;-72.7114
+040202;Jose Maria Quimper;Camana;Arequipa;-16.6031;-72.7275
+040203;Mariano Nicolas Valcarcel;Camana;Arequipa;-16.0303;-73.1625
+040204;Mariscal Caceres;Camana;Arequipa;-16.6183;-72.7361
+040205;Nicolas de Pierola;Camana;Arequipa;-16.5717;-72.7147
+040206;Ocoña;Camana;Arequipa;-16.4328;-73.1081
+040207;Quilca;Camana;Arequipa;-16.7164;-72.4275
+040208;Samuel Pastor;Camana;Arequipa;-16.615;-72.6989
+040301;Caraveli;Caraveli;Arequipa;-15.7728;-73.3681
+040302;Acari;Caraveli;Arequipa;-15.4325;-74.6172
+040303;Atico;Caraveli;Arequipa;-16.2089;-73.6258
+040304;Atiquipa;Caraveli;Arequipa;-15.7956;-74.3658
+040305;Bella Union;Caraveli;Arequipa;-15.4519;-74.6622
+040306;Cahuacho;Caraveli;Arequipa;-15.5042;-73.4817
+040307;Chala;Caraveli;Arequipa;-15.8667;-74.2472
+040308;Chaparra;Caraveli;Arequipa;-15.8058;-73.9672
+040309;Huanuhuanu;Caraveli;Arequipa;-15.6592;-74.0936
+040310;Jaqui;Caraveli;Arequipa;-15.4753;-74.4414
+040311;Lomas;Caraveli;Arequipa;-15.5719;-74.8533
+040312;Quicacha;Caraveli;Arequipa;-15.6253;-73.7978
+040313;Yauca;Caraveli;Arequipa;-15.6606;-74.5269
+040401;Aplao;Castilla;Arequipa;-16.0761;-72.4925
+040402;Andagua;Castilla;Arequipa;-15.4975;-72.355
+040403;Ayo;Castilla;Arequipa;-15.6836;-72.2744
+040404;Chachas;Castilla;Arequipa;-15.5017;-72.2719
+040405;Chilcaymarca;Castilla;Arequipa;-15.2867;-72.3794
+040406;Choco;Castilla;Arequipa;-15.5761;-72.1331
+040407;Huancarqui;Castilla;Arequipa;-16.0969;-72.4722
+040408;Machaguay;Castilla;Arequipa;-15.6486;-72.5056
+040409;Orcopampa;Castilla;Arequipa;-15.2661;-72.3431
+040410;Pampacolca;Castilla;Arequipa;-15.7131;-72.5728
+040411;Tipan;Castilla;Arequipa;-15.7272;-72.5053
+040412;Uñon;Castilla;Arequipa;-15.7275;-72.4317
+040413;Uraca;Castilla;Arequipa;-16.2231;-72.4733
+040414;Viraco;Castilla;Arequipa;-15.6547;-72.5247
+040501;Chivay;Caylloma;Arequipa;-15.64;-71.6033
+040502;Achoma;Caylloma;Arequipa;-15.6611;-71.7017
+040503;Cabanaconde;Caylloma;Arequipa;-15.6214;-71.9797
+040504;Callalli;Caylloma;Arequipa;-15.5067;-71.4483
+040505;Caylloma;Caylloma;Arequipa;-15.1872;-71.7725
+040506;Coporaque;Caylloma;Arequipa;-15.6275;-71.6483
+040507;Huambo;Caylloma;Arequipa;-15.7297;-72.1072
+040508;Huanca;Caylloma;Arequipa;-16.0311;-71.8736
+040509;Ichupampa;Caylloma;Arequipa;-15.6503;-71.6892
+040510;Lari;Caylloma;Arequipa;-15.6217;-71.7692
+040511;Lluta;Caylloma;Arequipa;-16.0156;-72.0161
+040512;Maca;Caylloma;Arequipa;-15.6417;-71.7711
+040513;Madrigal;Caylloma;Arequipa;-15.6086;-71.8103
+040514;San Antonio de Chuca;Caylloma;Arequipa;-15.8403;-71.0903
+040515;Sibayo;Caylloma;Arequipa;-15.4858;-71.4586
+040516;Tapay;Caylloma;Arequipa;-15.5789;-71.9414
+040517;Tisco;Caylloma;Arequipa;-15.3469;-71.4492
+040518;Tuti;Caylloma;Arequipa;-15.5325;-71.5511
+040519;Yanque;Caylloma;Arequipa;-15.65;-71.6614
+040520;Majes;Caylloma;Arequipa;-16.3586;-72.1908
+040601;Chuquibamba;Condesuyos;Arequipa;-15.8397;-72.6542
+040602;Andaray;Condesuyos;Arequipa;-15.7961;-72.8597
+040603;Cayarani;Condesuyos;Arequipa;-14.6731;-72.0231
+040604;Chichas;Condesuyos;Arequipa;-15.5469;-72.9183
+040605;Iray;Condesuyos;Arequipa;-15.8564;-72.625
+040606;Rio Grande;Condesuyos;Arequipa;-15.9411;-73.1308
+040607;Salamanca;Condesuyos;Arequipa;-15.5042;-72.8333
+040608;Yanaquihua;Condesuyos;Arequipa;-15.7747;-72.8758
+040701;Mollendo;Islay;Arequipa;-17.025;-72.0181
+040702;Cocachacra;Islay;Arequipa;-17.0942;-71.7711
+040703;Dean Valdivia;Islay;Arequipa;-17.145;-71.8239
+040704;Islay;Islay;Arequipa;-17;-72.1017
+040705;Mejia;Islay;Arequipa;-17.1028;-71.9086
+040706;Punta de Bombon;Islay;Arequipa;-17.1728;-71.7928
+040801;Cotahuasi;La Union;Arequipa;-15.2111;-72.8911
+040802;Alca;La Union;Arequipa;-15.1342;-72.7647
+040803;Charcana;La Union;Arequipa;-15.2411;-73.0697
+040804;Huaynacotas;La Union;Arequipa;-15.1744;-72.8514
+040805;Pampamarca;La Union;Arequipa;-15.185;-72.9072
+040806;Puyca;La Union;Arequipa;-15.0589;-72.6908
+040807;Quechualla;La Union;Arequipa;-15.2758;-73.0233
+040808;Sayla;La Union;Arequipa;-15.3211;-73.2214
+040809;Tauria;La Union;Arequipa;-15.3553;-73.2319
+040810;Tomepampa;La Union;Arequipa;-15.1728;-72.8297
+040811;Toro;La Union;Arequipa;-15.2642;-72.9275
+050101;Ayacucho;Huamanga;Ayacucho;-13.1542;-74.2228
+050102;Acocro;Huamanga;Ayacucho;-13.2183;-74.0411
+050103;Acos Vinchos;Huamanga;Ayacucho;-13.1125;-74.1017
+050104;Carmen Alto;Huamanga;Ayacucho;-13.1722;-74.2242
+050105;Chiara;Huamanga;Ayacucho;-13.2733;-74.2053
+050106;Ocros;Huamanga;Ayacucho;-13.3917;-73.9164
+050107;Pacaycasa;Huamanga;Ayacucho;-13.0564;-74.2142
+050108;Quinua;Huamanga;Ayacucho;-13.0497;-74.1397
+050109;San Jose de Ticllas;Huamanga;Ayacucho;-13.1328;-74.3331
+050110;San Juan Bautista;Huamanga;Ayacucho;-13.1658;-74.2222
+050111;Santiago de Pischa;Huamanga;Ayacucho;-13.085;-74.3911
+050112;Socos;Huamanga;Ayacucho;-13.215;-74.2894
+050113;Tambillo;Huamanga;Ayacucho;-13.1922;-74.1097
+050114;Vinchos;Huamanga;Ayacucho;-13.2417;-74.3536
+050115;Jesus Nazareno;Huamanga;Ayacucho;-13.1531;-74.2114
+050116;Andrés Avelino Cáceres Dorregaray;Huamanga;Ayacucho;-13.1617;-74.2106
+050201;Cangallo;Cangallo;Ayacucho;-13.6281;-74.1442
+050202;Chuschi;Cangallo;Ayacucho;-13.5831;-74.3536
+050203;Los Morochucos;Cangallo;Ayacucho;-13.5572;-74.1947
+050204;Maria Parado de Bellido;Cangallo;Ayacucho;-13.6039;-74.2347
+050205;Paras;Cangallo;Ayacucho;-13.5517;-74.6272
+050206;Totos;Cangallo;Ayacucho;-13.5681;-74.5242
+050301;Sancos;Huanca Sancos;Ayacucho;-13.9192;-74.3339
+050302;Carapo;Huanca Sancos;Ayacucho;-13.8375;-74.3147
+050303;Sacsamarca;Huanca Sancos;Ayacucho;-13.9464;-74.315
+050304;Santiago de Lucanamarca;Huanca Sancos;Ayacucho;-13.8433;-74.3722
+050401;Huanta;Huanta;Ayacucho;-12.9386;-74.2486
+050402;Ayahuanco;Huanta;Ayacucho;-12.5981;-74.3231
+050403;Huamanguilla;Huanta;Ayacucho;-13.0108;-74.1731
+050404;Iguain;Huanta;Ayacucho;-12.9919;-74.2083
+050405;Luricocha;Huanta;Ayacucho;-12.8981;-74.2711
+050406;Santillana;Huanta;Ayacucho;-12.7656;-74.2528
+050407;Sivia;Huanta;Ayacucho;-12.5119;-73.8578
+050408;Llochegua;Huanta;Ayacucho;-12.4114;-73.9097
+050409;Canayre;Huanta;Ayacucho;-12.2822;-74.0228
+050410;Uchuraccay;Huanta;Ayacucho;-12.7622;-74.1464
+050411;Pucacolpa;Huanta;Ayacucho;-15.255;-73.4136
+050412;Chaca;Huanta;Ayacucho;-12.7836;-74.2069
+050501;San Miguel;La Mar;Ayacucho;-13.0117;-73.9789
+050502;Anco;La Mar;Ayacucho;-13.0592;-73.7072
+050503;Ayna;La Mar;Ayacucho;-12.6244;-73.79
+050504;Chilcas;La Mar;Ayacucho;-13.1722;-73.9083
+050505;Chungui;La Mar;Ayacucho;-13.2222;-73.6242
+050506;Luis Carranza;La Mar;Ayacucho;-13.2283;-73.8925
+050507;Santa Rosa;La Mar;Ayacucho;-12.6894;-73.735
+050508;Tambo;La Mar;Ayacucho;-12.9506;-74.0233
+050509;Samugari;La Mar;Ayacucho;-12.7908;-73.6414
+050510;Anchihuay;La Mar;Ayacucho;-12.8633;-73.5817
+050511;Oronccoy;La Mar;Ayacucho;-13.3808;-73.4358
+050601;Puquio;Lucanas;Ayacucho;-14.6914;-74.1283
+050602;Aucara;Lucanas;Ayacucho;-14.2681;-73.9703
+050603;Cabana;Lucanas;Ayacucho;-14.2897;-73.9667
+050604;Carmen Salcedo;Lucanas;Ayacucho;-14.3875;-73.9625
+050605;Chaviña;Lucanas;Ayacucho;-14.9778;-73.8364
+050606;Chipao;Lucanas;Ayacucho;-14.3661;-73.8786
+050607;Huac-Huas;Lucanas;Ayacucho;-14.1308;-74.9419
+050608;Laramate;Lucanas;Ayacucho;-14.2858;-74.8425
+050609;Leoncio Prado;Lucanas;Ayacucho;-14.7278;-74.67
+050610;Llauta;Lucanas;Ayacucho;-14.2439;-74.9192
+050611;Lucanas;Lucanas;Ayacucho;-14.6222;-74.2328
+050612;Ocaña;Lucanas;Ayacucho;-14.3983;-74.8219
+050613;Otoca;Lucanas;Ayacucho;-14.4894;-74.6892
+050614;Saisa;Lucanas;Ayacucho;-14.9383;-74.4183
+050615;San Cristobal;Lucanas;Ayacucho;-14.7425;-74.2217
+050616;San Juan;Lucanas;Ayacucho;-14.66;-74.2011
+050617;San Pedro;Lucanas;Ayacucho;-14.7708;-74.0972
+050618;San Pedro de Palco;Lucanas;Ayacucho;-14.4139;-74.65
+050619;Sancos;Lucanas;Ayacucho;-15.0619;-73.9511
+050620;Santa Ana de Huaycahuacho;Lucanas;Ayacucho;-14.2281;-73.955
+050621;Santa Lucia;Lucanas;Ayacucho;-14.9786;-74.5233
+050701;Coracora;Parinacochas;Ayacucho;-15.0161;-73.7819
+050702;Chumpi;Parinacochas;Ayacucho;-15.0944;-73.7478
+050703;Coronel Castañeda;Parinacochas;Ayacucho;-14.81;-73.2886
+050704;Pacapausa;Parinacochas;Ayacucho;-14.9492;-73.3678
+050705;Pullo;Parinacochas;Ayacucho;-15.2092;-73.8294
+050706;Puyusca;Parinacochas;Ayacucho;-15.2492;-73.5703
+050707;San Francisco de Ravacayco;Parinacochas;Ayacucho;-14.9975;-73.3556
+050708;Upahuacho;Parinacochas;Ayacucho;-14.9075;-73.3972
+050801;Pausa;Paucar del Sara Sara;Ayacucho;-15.2806;-73.3433
+050802;Colta;Paucar del Sara Sara;Ayacucho;-15.1631;-73.2939
+050803;Corculla;Paucar del Sara Sara;Ayacucho;-15.2617;-73.2
+050804;Lampa;Paucar del Sara Sara;Ayacucho;-15.1847;-73.3472
+050805;Marcabamba;Paucar del Sara Sara;Ayacucho;-15.1492;-73.3436
+050806;Oyolo;Paucar del Sara Sara;Ayacucho;-15.1797;-73.1881
+050807;Pararca;Paucar del Sara Sara;Ayacucho;-15.2169;-73.4653
+050808;San Javier de Alpabamba;Paucar del Sara Sara;Ayacucho;-15.0539;-73.3103
+050809;San Jose de Ushua;Paucar del Sara Sara;Ayacucho;-15.2242;-73.2258
+050810;Sara Sara;Paucar del Sara Sara;Ayacucho;-15.2458;-73.4514
+050901;Querobamba;Sucre;Ayacucho;-14.0136;-73.8408
+050902;Belen;Sucre;Ayacucho;-13.8094;-73.7578
+050903;Chalcos;Sucre;Ayacucho;-13.8478;-73.7533
+050904;Chilcayoc;Sucre;Ayacucho;-13.8825;-73.7275
+050905;Huacaña;Sucre;Ayacucho;-14.1728;-73.8864
+050906;Morcolla;Sucre;Ayacucho;-14.1097;-73.8736
+050907;Paico;Sucre;Ayacucho;-14.0386;-73.6433
+050908;San Pedro de Larcay;Sucre;Ayacucho;-14.1697;-73.5758
+050909;San Salvador de Quije;Sucre;Ayacucho;-13.9703;-73.7314
+050910;Santiago de Paucaray;Sucre;Ayacucho;-14.0444;-73.6372
+050911;Soras;Sucre;Ayacucho;-14.1153;-73.6056
+051001;Huancapi;Victor Fajardo;Ayacucho;-13.7528;-74.0669
+051002;Alcamenca;Victor Fajardo;Ayacucho;-13.6578;-74.1467
+051003;Apongo;Victor Fajardo;Ayacucho;-14.0147;-73.9342
+051004;Asquipata;Victor Fajardo;Ayacucho;-14.0536;-73.9094
+051005;Canaria;Victor Fajardo;Ayacucho;-13.9231;-73.9053
+051006;Cayara;Victor Fajardo;Ayacucho;-13.7953;-73.9906
+051007;Colca;Victor Fajardo;Ayacucho;-13.7125;-74.0342
+051008;Huamanquiquia;Victor Fajardo;Ayacucho;-13.7283;-74.2731
+051009;Huancaraylla;Victor Fajardo;Ayacucho;-13.7175;-74.1028
+051010;Huaya;Victor Fajardo;Ayacucho;-13.8492;-73.9536
+051011;Sarhua;Victor Fajardo;Ayacucho;-13.6714;-74.3208
+051012;Vilcanchos;Victor Fajardo;Ayacucho;-13.6122;-74.5339
+051101;Vilcas Huaman;Vilcas Huaman;Ayacucho;-13.6533;-73.9528
+051102;Accomarca;Vilcas Huaman;Ayacucho;-13.8003;-73.9033
+051103;Carhuanca;Vilcas Huaman;Ayacucho;-13.7425;-73.7892
+051104;Concepcion;Vilcas Huaman;Ayacucho;-13.5322;-73.875
+051105;Huambalpa;Vilcas Huaman;Ayacucho;-13.7494;-73.9339
+051106;Independencia;Vilcas Huaman;Ayacucho;-13.8581;-73.8878
+051107;Saurama;Vilcas Huaman;Ayacucho;-13.695;-73.7622
+051108;Vischongo;Vilcas Huaman;Ayacucho;-13.5881;-73.9983
+060101;Cajamarca;Cajamarca;Cajamarca;-7.1564;-78.5153
+060102;Asuncion;Cajamarca;Cajamarca;-7.3233;-78.5203
+060103;Chetilla;Cajamarca;Cajamarca;-7.1461;-78.6714
+060104;Cospan;Cajamarca;Cajamarca;-7.4264;-78.5433
+060105;Encañada;Cajamarca;Cajamarca;-7.0864;-78.3447
+060106;Jesus;Cajamarca;Cajamarca;-7.2456;-78.3778
+060107;Llacanora;Cajamarca;Cajamarca;-7.1928;-78.4269
+060108;Los Baños del Inca;Cajamarca;Cajamarca;-7.1617;-78.4633
+060109;Magdalena;Cajamarca;Cajamarca;-7.2508;-78.6564
+060110;Matara;Cajamarca;Cajamarca;-7.2564;-78.2636
+060111;Namora;Cajamarca;Cajamarca;-7.2017;-78.3247
+060112;San Juan;Cajamarca;Cajamarca;-7.2903;-78.4992
+060201;Cajabamba;Cajabamba;Cajamarca;-7.6222;-78.0472
+060202;Cachachi;Cajabamba;Cajamarca;-7.4494;-78.2703
+060203;Condebamba;Cajabamba;Cajamarca;-7.5736;-78.07
+060204;Sitacocha;Cajabamba;Cajamarca;-7.5211;-77.9714
+060301;Celendin;Celendin;Cajamarca;-6.8681;-78.1489
+060302;Chumuch;Celendin;Cajamarca;-6.6033;-78.2033
+060303;Cortegana;Celendin;Cajamarca;-6.4906;-78.3036
+060304;Huasmin;Celendin;Cajamarca;-6.8386;-78.2431
+060305;Jorge Chavez;Celendin;Cajamarca;-6.9414;-78.0914
+060306;Jose Galvez;Celendin;Cajamarca;-6.9253;-78.1328
+060307;Miguel Iglesias;Celendin;Cajamarca;-6.6439;-78.2381
+060308;Oxamarca;Celendin;Cajamarca;-7.0397;-78.0725
+060309;Sorochuco;Celendin;Cajamarca;-6.9103;-78.2553
+060310;Sucre;Celendin;Cajamarca;-6.9408;-78.1369
+060311;Utco;Celendin;Cajamarca;-6.8964;-78.0639
+060312;La Libertad de Pallan;Celendin;Cajamarca;-6.7269;-78.2908
+060401;Chota;Chota;Cajamarca;-6.5631;-78.6508
+060402;Anguia;Chota;Cajamarca;-6.3422;-78.605
+060403;Chadin;Chota;Cajamarca;-6.4731;-78.4197
+060404;Chiguirip;Chota;Cajamarca;-6.4286;-78.7192
+060405;Chimban;Chota;Cajamarca;-6.2567;-78.4786
+060406;Choropampa;Chota;Cajamarca;-6.4372;-78.3503
+060407;Cochabamba;Chota;Cajamarca;-6.4731;-78.8878
+060408;Conchan;Chota;Cajamarca;-6.4444;-78.6572
+060409;Huambos;Chota;Cajamarca;-6.4522;-78.9639
+060410;Lajas;Chota;Cajamarca;-6.5617;-78.7389
+060411;Llama;Chota;Cajamarca;-6.5144;-79.1197
+060412;Miracosta;Chota;Cajamarca;-6.4053;-79.2831
+060413;Paccha;Chota;Cajamarca;-6.5022;-78.4211
+060414;Pion;Chota;Cajamarca;-6.1783;-78.4817
+060415;Querocoto;Chota;Cajamarca;-6.3586;-79.0356
+060416;San Juan de Licupis;Chota;Cajamarca;-6.4244;-79.2414
+060417;Tacabamba;Chota;Cajamarca;-6.3931;-78.6125
+060418;Tocmoche;Chota;Cajamarca;-6.4125;-79.3606
+060419;Chalamarca;Chota;Cajamarca;-6.4889;-78.4689
+060501;Contumaza;Contumaza;Cajamarca;-7.3653;-78.8064
+060502;Chilete;Contumaza;Cajamarca;-7.2222;-78.8406
+060503;Cupisnique;Contumaza;Cajamarca;-7.3492;-79.0297
+060504;Guzmango;Contumaza;Cajamarca;-7.3842;-78.8981
+060505;San Benito;Contumaza;Cajamarca;-7.4247;-78.9292
+060506;Santa Cruz de Toled;Contumaza;Cajamarca;-7.3436;-78.8403
+060507;Tantarica;Contumaza;Cajamarca;-7.3006;-78.9353
+060508;Yonan;Contumaza;Cajamarca;-7.2536;-79.13
+060601;Cutervo;Cutervo;Cajamarca;-6.3794;-78.8206
+060602;Callayuc;Cutervo;Cajamarca;-6.1764;-78.9047
+060603;Choros;Cutervo;Cajamarca;-5.9008;-78.6967
+060604;Cujillo;Cutervo;Cajamarca;-6.1072;-78.5725
+060605;La Ramada;Cutervo;Cajamarca;-6.2172;-78.5547
+060606;Pimpingos;Cutervo;Cajamarca;-6.0622;-78.7575
+060607;Querocotillo;Cutervo;Cajamarca;-6.2747;-79.0369
+060608;San Andres de Cutervo;Cutervo;Cajamarca;-6.2364;-78.7111
+060609;San Juan de Cutervo;Cutervo;Cajamarca;-6.1747;-78.6011
+060610;San Luis de Lucma;Cutervo;Cajamarca;-6.2956;-78.6056
+060611;Santa Cruz;Cutervo;Cajamarca;-6.0964;-78.8547
+060612;Santo Domingo de La Capilla;Cutervo;Cajamarca;-6.245;-78.8578
+060613;Santo Tomas;Cutervo;Cajamarca;-6.1544;-78.6908
+060614;Socota;Cutervo;Cajamarca;-6.3158;-78.7014
+060615;Toribio Casanova;Cutervo;Cajamarca;-6.0069;-78.6997
+060701;Bambamarca;Hualgayoc;Cajamarca;-6.6786;-78.5242
+060702;Chugur;Hualgayoc;Cajamarca;-6.6711;-78.7397
+060703;Hualgayoc;Hualgayoc;Cajamarca;-6.7656;-78.6119
+060801;Jaen;Jaen;Cajamarca;-5.7106;-78.8117
+060802;Bellavista;Jaen;Cajamarca;-5.6664;-78.6786
+060803;Chontali;Jaen;Cajamarca;-5.6458;-79.0878
+060804;Colasay;Jaen;Cajamarca;-5.9786;-79.0689
+060805;Huabal;Jaen;Cajamarca;-5.6133;-78.9122
+060806;Las Pirias;Jaen;Cajamarca;-5.6269;-78.8533
+060807;Pomahuaca;Jaen;Cajamarca;-5.9322;-79.2289
+060808;Pucara;Jaen;Cajamarca;-6.0414;-79.1283
+060809;Sallique;Jaen;Cajamarca;-5.6569;-79.315
+060810;San Felipe;Jaen;Cajamarca;-5.7697;-79.3136
+060811;San Jose del Alto;Jaen;Cajamarca;-5.3908;-79.0539
+060812;Santa Rosa;Jaen;Cajamarca;-5.4358;-78.5644
+060901;San Ignacio;San Ignacio;Cajamarca;-5.1403;-79.0003
+060902;Chirinos;San Ignacio;Cajamarca;-5.3028;-78.8983
+060903;Huarango;San Ignacio;Cajamarca;-5.2706;-78.7753
+060904;La Coipa;San Ignacio;Cajamarca;-5.3933;-78.9044
+060905;Namballe;San Ignacio;Cajamarca;-5.0089;-79.0856
+060906;San Jose de Lourdes;San Ignacio;Cajamarca;-5.1025;-78.9139
+060907;Tabaconas;San Ignacio;Cajamarca;-5.3164;-79.2833
+061001;Pedro Galvez;San Marcos;Cajamarca;-7.3361;-78.1728
+061002;Chancay;San Marcos;Cajamarca;-7.3858;-78.1264
+061003;Eduardo Villanueva;San Marcos;Cajamarca;-7.4636;-78.1297
+061004;Gregorio Pita;San Marcos;Cajamarca;-7.2725;-78.1594
+061005;Ichocan;San Marcos;Cajamarca;-7.3669;-78.1283
+061006;Jose Manuel Quiroz;San Marcos;Cajamarca;-7.3472;-78.0467
+061007;Jose Sabogal;San Marcos;Cajamarca;-7.2833;-78.0167
+061101;San Miguel;San Miguel;Cajamarca;-6.9997;-78.8536
+061102;Bolivar;San Miguel;Cajamarca;-6.9772;-79.1789
+061103;Calquis;San Miguel;Cajamarca;-6.9797;-78.8522
+061104;Catilluc;San Miguel;Cajamarca;-6.7994;-78.7906
+061105;El Prado;San Miguel;Cajamarca;-7.0339;-79.0111
+061106;La Florida;San Miguel;Cajamarca;-6.8683;-79.1231
+061107;Llapa;San Miguel;Cajamarca;-6.9786;-78.8072
+061108;Nanchoc;San Miguel;Cajamarca;-6.9583;-79.2419
+061109;Niepos;San Miguel;Cajamarca;-6.9272;-79.1283
+061110;San Gregorio;San Miguel;Cajamarca;-7.0575;-79.0956
+061111;San Silvestre de Cochan;San Miguel;Cajamarca;-6.9778;-78.775
+061112;Tongod;San Miguel;Cajamarca;-6.7631;-78.8236
+061113;Union Agua Blanca;San Miguel;Cajamarca;-7.0447;-79.06
+061201;San Pablo;San Pablo;Cajamarca;-7.1181;-78.8231
+061202;San Bernardino;San Pablo;Cajamarca;-7.1681;-78.8311
+061203;San Luis;San Pablo;Cajamarca;-7.1583;-78.87
+061204;Tumbaden;San Pablo;Cajamarca;-7.0203;-78.7403
+061301;Santa Cruz;Santa Cruz;Cajamarca;-6.6267;-78.9464
+061302;Andabamba;Santa Cruz;Cajamarca;-6.6628;-78.8194
+061303;Catache;Santa Cruz;Cajamarca;-6.6753;-79.0325
+061304;Chancaybaños;Santa Cruz;Cajamarca;-6.5764;-78.8681
+061305;La Esperanza;Santa Cruz;Cajamarca;-6.5931;-78.895
+061306;Ninabamba;Santa Cruz;Cajamarca;-6.6497;-78.7894
+061307;Pulan;Santa Cruz;Cajamarca;-6.7397;-78.9231
+061308;Saucepampa;Santa Cruz;Cajamarca;-6.6928;-78.9183
+061309;Sexi;Santa Cruz;Cajamarca;-6.5636;-79.0514
+061310;Uticyacu;Santa Cruz;Cajamarca;-6.6064;-78.7972
+061311;Yauyucan;Santa Cruz;Cajamarca;-6.6783;-78.82
+070101;Callao;Callao;Callao;-12.0603;-77.1492
+070102;Bellavista;Callao;Callao;-12.0625;-77.1317
+070103;Carmen de La Legua;Callao;Callao;-12.0461;-77.0969
+070104;La Perla;Callao;Callao;-12.0711;-77.1211
+070105;La Punta;Callao;Callao;-12.0717;-77.1692
+070106;Ventanilla;Callao;Callao;-11.8989;-77.1422
+070107;Mi Peru;Callao;Callao;-11.855;-77.125
+080101;Cusco;Cusco;Cusco;-13.5153;-71.98
+080102;Ccorca;Cusco;Cusco;-13.5842;-72.0594
+080103;Poroy;Cusco;Cusco;-13.4969;-72.0425
+080104;San Jeronimo;Cusco;Cusco;-13.5439;-71.8872
+080105;San Sebastian;Cusco;Cusco;-13.5311;-71.9333
+080106;Santiago;Cusco;Cusco;-13.5272;-71.9842
+080107;Saylla;Cusco;Cusco;-13.5703;-71.8264
+080108;Wanchaq;Cusco;Cusco;-13.5253;-71.9656
+080201;Acomayo;Acomayo;Cusco;-13.9189;-71.685
+080202;Acopia;Acomayo;Cusco;-14.0581;-71.4931
+080203;Acos;Acomayo;Cusco;-13.9506;-71.7383
+080204;Mosoc Llacta;Acomayo;Cusco;-14.1203;-71.4733
+080205;Pomacanchi;Acomayo;Cusco;-14.035;-71.5714
+080206;Rondocan;Acomayo;Cusco;-13.7786;-71.7822
+080207;Sangarara;Acomayo;Cusco;-13.9475;-71.6031
+080301;Anta;Anta;Cusco;-13.4636;-72.1469
+080302;Ancahuasi;Anta;Cusco;-13.4575;-72.2944
+080303;Cachimayo;Anta;Cusco;-13.4775;-72.0728
+080304;Chinchaypujio;Anta;Cusco;-13.6294;-72.2339
+080305;Huarocondo;Anta;Cusco;-13.4131;-72.2086
+080306;Limatambo;Anta;Cusco;-13.4808;-72.4458
+080307;Mollepata;Anta;Cusco;-13.5078;-72.5353
+080308;Pucyura;Anta;Cusco;-13.4803;-72.1119
+080309;Zurite;Anta;Cusco;-13.4556;-72.2558
+080401;Calca;Calca;Cusco;-13.3231;-71.9578
+080402;Coya;Calca;Cusco;-13.3867;-71.9011
+080403;Lamay;Calca;Cusco;-13.3642;-71.9228
+080404;Lares;Calca;Cusco;-13.1058;-72.0472
+080405;Pisac;Calca;Cusco;-13.4217;-71.85
+080406;San Salvador;Calca;Cusco;-13.4936;-71.78
+080407;Taray;Calca;Cusco;-13.4278;-71.8689
+080408;Yanatile;Calca;Cusco;-12.7008;-72.2322
+080501;Yanaoca;Canas;Cusco;-14.22;-71.4317
+080502;Checca;Canas;Cusco;-14.4733;-71.3964
+080503;Kunturkanki;Canas;Cusco;-14.5331;-71.3064
+080504;Langui;Canas;Cusco;-14.4317;-71.2744
+080505;Layo;Canas;Cusco;-14.4942;-71.1556
+080506;Pampamarca;Canas;Cusco;-14.1453;-71.4603
+080507;Quehue;Canas;Cusco;-14.38;-71.455
+080508;Tupac Amaru;Canas;Cusco;-14.165;-71.4794
+080601;Sicuani;Canchis;Cusco;-14.2711;-71.2289
+080602;Checacupe;Canchis;Cusco;-14.0267;-71.4533
+080603;Combapata;Canchis;Cusco;-14.1008;-71.4308
+080604;Marangani;Canchis;Cusco;-14.3564;-71.1683
+080605;Pitumarca;Canchis;Cusco;-13.9778;-71.4147
+080606;San Pablo;Canchis;Cusco;-14.2033;-71.3178
+080607;San Pedro;Canchis;Cusco;-14.1867;-71.3422
+080608;Tinta;Canchis;Cusco;-14.1447;-71.4067
+080701;Santo Tomas;Chumbivilcas;Cusco;-14.4503;-72.0833
+080702;Capacmarca;Chumbivilcas;Cusco;-14.0078;-72.0008
+080703;Chamaca;Chumbivilcas;Cusco;-14.3028;-71.855
+080704;Colquemarca;Chumbivilcas;Cusco;-14.2839;-72.0411
+080705;Livitaca;Chumbivilcas;Cusco;-14.3131;-71.6892
+080706;Llusco;Chumbivilcas;Cusco;-14.3383;-72.1144
+080707;Quiñota;Chumbivilcas;Cusco;-14.3114;-72.1389
+080708;Velille;Chumbivilcas;Cusco;-14.5106;-71.8864
+080801;Espinar;Espinar;Cusco;-14.7931;-71.4133
+080802;Condoroma;Espinar;Cusco;-15.3075;-71.1319
+080803;Coporaque;Espinar;Cusco;-14.7972;-71.5311
+080804;Ocoruro;Espinar;Cusco;-15.0522;-71.1292
+080805;Pallpata;Espinar;Cusco;-14.8894;-71.2103
+080806;Pichigua;Espinar;Cusco;-14.6786;-71.41
+080807;Suyckutambo;Espinar;Cusco;-15.0025;-71.6397
+080808;Alto Pichigua;Espinar;Cusco;-14.7789;-71.2542
+080901;Santa Ana;La Convencion;Cusco;-12.865;-72.6936
+080902;Echarate;La Convencion;Cusco;-12.7675;-72.5936
+080903;Huayopata;La Convencion;Cusco;-13.0075;-72.5569
+080904;Maranura;La Convencion;Cusco;-12.9619;-72.6653
+080905;Ocobamba;La Convencion;Cusco;-12.8706;-72.4489
+080906;Quellouno;La Convencion;Cusco;-12.6325;-72.5517
+080907;Kimbiri;La Convencion;Cusco;-12.6097;-73.7811
+080908;Santa Teresa;La Convencion;Cusco;-13.1297;-72.5986
+080909;Vilcabamba;La Convencion;Cusco;-13.0514;-72.9436
+080910;Pichari;La Convencion;Cusco;-12.5158;-73.8269
+080911;Inkawasi;La Convencion;Cusco;-13.00354;-72.51822
+080912;Villa Virgen;La Convencion;Cusco;-13.0031;-73.5167
+080913;Villa Kintiarina;La Convencion;Cusco;-12.9186;-73.5306
+080914;Megantoni;La Convencion;Cusco;-11.8047;-72.8594
+081001;Paruro;Paruro;Cusco;-13.7617;-71.8478
+081002;Accha;Paruro;Cusco;-13.9681;-71.8322
+081003;Ccapi;Paruro;Cusco;-13.8533;-72.0803
+081004;Colcha;Paruro;Cusco;-13.8511;-71.8028
+081005;Huanoquite;Paruro;Cusco;-13.6828;-72.0147
+081006;Omacha;Paruro;Cusco;-14.0706;-71.7386
+081007;Paccaritambo;Paruro;Cusco;-13.7558;-71.9564
+081008;Pillpinto;Paruro;Cusco;-13.9531;-71.7619
+081009;Yaurisque;Paruro;Cusco;-13.6639;-71.9214
+081101;Paucartambo;Paucartambo;Cusco;-13.3189;-71.5997
+081102;Caicay;Paucartambo;Cusco;-13.5969;-71.6961
+081103;Challabamba;Paucartambo;Cusco;-13.2114;-71.6531
+081104;Colquepata;Paucartambo;Cusco;-13.3594;-71.6731
+081105;Huancarani;Paucartambo;Cusco;-13.5033;-71.6539
+081106;Kosñipata;Paucartambo;Cusco;-13.0025;-71.4225
+081201;Urcos;Quispicanchi;Cusco;-13.6883;-71.6258
+081202;Andahuaylillas;Quispicanchi;Cusco;-13.6733;-71.6767
+081203;Camanti;Quispicanchi;Cusco;-13.1936;-70.7478
+081204;Ccarhuayo;Quispicanchi;Cusco;-13.5947;-71.3994
+081205;Ccatca;Quispicanchi;Cusco;-13.6053;-71.5619
+081206;Cusipata;Quispicanchi;Cusco;-13.9083;-71.5
+081207;Huaro;Quispicanchi;Cusco;-13.6903;-71.6406
+081208;Lucre;Quispicanchi;Cusco;-13.6356;-71.7378
+081209;Marcapata;Quispicanchi;Cusco;-13.515;-70.9458
+081210;Ocongate;Quispicanchi;Cusco;-13.6286;-71.3864
+081211;Oropesa;Quispicanchi;Cusco;-13.5958;-71.7642
+081212;Quiquijana;Quispicanchi;Cusco;-13.8222;-71.5317
+081301;Urubamba;Urubamba;Cusco;-13.3061;-72.1161
+081302;Chinchero;Urubamba;Cusco;-13.3933;-72.0472
+081303;Huayllabamba;Urubamba;Cusco;-13.3386;-72.0644
+081304;Machupicchu;Urubamba;Cusco;-13.1533;-72.5242
+081305;Maras;Urubamba;Cusco;-13.3367;-72.1572
+081306;Ollantaytambo;Urubamba;Cusco;-13.2581;-72.2631
+081307;Yucay;Urubamba;Cusco;-13.3194;-72.0861
+090101;Huancavelica;Huancavelica;Huancavelica;-12.7869;-74.9756
+090102;Acobambilla;Huancavelica;Huancavelica;-12.6675;-75.3239
+090103;Acoria;Huancavelica;Huancavelica;-12.6433;-74.8664
+090104;Conayca;Huancavelica;Huancavelica;-12.5194;-75.0078
+090105;Cuenca;Huancavelica;Huancavelica;-12.4344;-75.0394
+090106;Huachocolpa;Huancavelica;Huancavelica;-13.0319;-74.9497
+090107;Huayllahuara;Huancavelica;Huancavelica;-12.4072;-75.1797
+090108;Izcuchaca;Huancavelica;Huancavelica;-12.5011;-74.9961
+090109;Laria;Huancavelica;Huancavelica;-12.5611;-75.0372
+090110;Manta;Huancavelica;Huancavelica;-12.6217;-75.2122
+090111;Mariscal Caceres;Huancavelica;Huancavelica;-12.5356;-74.9336
+090112;Moya;Huancavelica;Huancavelica;-12.4231;-75.1539
+090113;Nuevo Occoro;Huancavelica;Huancavelica;-12.595;-75.02
+090114;Palca;Huancavelica;Huancavelica;-12.6589;-74.9833
+090115;Pilchaca;Huancavelica;Huancavelica;-12.4019;-75.0839
+090116;Vilca;Huancavelica;Huancavelica;-12.4786;-75.1867
+090117;Yauli;Huancavelica;Huancavelica;-12.7731;-74.8506
+090118;Ascension;Huancavelica;Huancavelica;-12.7842;-74.9806
+090119;Huando;Huancavelica;Huancavelica;-12.5653;-74.9469
+090201;Acobamba;Acobamba;Huancavelica;-12.8406;-74.5692
+090202;Andabamba;Acobamba;Huancavelica;-12.6953;-74.6242
+090203;Anta;Acobamba;Huancavelica;-12.8139;-74.6364
+090204;Caja;Acobamba;Huancavelica;-12.9183;-74.465
+090205;Marcas;Acobamba;Huancavelica;-12.8894;-74.3994
+090206;Paucara;Acobamba;Huancavelica;-12.7303;-74.6694
+090207;Pomacocha;Acobamba;Huancavelica;-12.8733;-74.5306
+090208;Rosario;Acobamba;Huancavelica;-12.7214;-74.5811
+090301;Lircay;Angaraes;Huancavelica;-12.9842;-74.7203
+090302;Anchonga;Angaraes;Huancavelica;-12.9122;-74.6922
+090303;Callanmarca;Angaraes;Huancavelica;-12.8678;-74.6228
+090304;Ccochaccasa;Angaraes;Huancavelica;-12.9311;-74.7697
+090305;Chincho;Angaraes;Huancavelica;-12.9783;-74.3689
+090306;Congalla;Angaraes;Huancavelica;-12.9564;-74.4928
+090307;Huanca-Huanca;Angaraes;Huancavelica;-12.9172;-74.6106
+090308;Huayllay Grande;Angaraes;Huancavelica;-12.9417;-74.7011
+090309;Julcamarca;Angaraes;Huancavelica;-13.015;-74.4453
+090310;San Antonio de Antaparco;Angaraes;Huancavelica;-13.0775;-74.4119
+090311;Santo Tomas de Pata;Angaraes;Huancavelica;-13.1136;-74.4233
+090312;Secclla;Angaraes;Huancavelica;-13.0533;-74.4833
+090401;Castrovirreyna;Castrovirreyna;Huancavelica;-13.2825;-75.3175
+090402;Arma;Castrovirreyna;Huancavelica;-13.1256;-75.5419
+090403;Aurahua;Castrovirreyna;Huancavelica;-13.035;-75.5708
+090404;Capillas;Castrovirreyna;Huancavelica;-13.2931;-75.5425
+090405;Chupamarca;Castrovirreyna;Huancavelica;-13.0383;-75.6097
+090406;Cocas;Castrovirreyna;Huancavelica;-13.2758;-75.3733
+090407;Huachos;Castrovirreyna;Huancavelica;-13.22;-75.5328
+090408;Huamatambo;Castrovirreyna;Huancavelica;-13.0961;-75.6806
+090409;Mollepampa;Castrovirreyna;Huancavelica;-13.31;-75.4092
+090410;San Juan;Castrovirreyna;Huancavelica;-13.2039;-75.6342
+090411;Santa Ana;Castrovirreyna;Huancavelica;-13.0719;-75.1403
+090412;Tantara;Castrovirreyna;Huancavelica;-13.0756;-75.6475
+090413;Ticrapo;Castrovirreyna;Huancavelica;-13.3844;-75.4319
+090501;Churcampa;Churcampa;Huancavelica;-12.7403;-74.3869
+090502;Anco;Churcampa;Huancavelica;-12.6864;-74.5872
+090503;Chinchihuasi;Churcampa;Huancavelica;-12.5172;-74.5458
+090504;El Carmen;Churcampa;Huancavelica;-12.7347;-74.4792
+090505;La Merced;Churcampa;Huancavelica;-12.79;-74.3633
+090506;Locroja;Churcampa;Huancavelica;-12.7389;-74.4419
+090507;Paucarbamba;Churcampa;Huancavelica;-12.5542;-74.5314
+090508;San Miguel de Mayocc;Churcampa;Huancavelica;-12.805;-74.3922
+090509;San Pedro de Coris;Churcampa;Huancavelica;-12.5786;-74.4103
+090510;Pachamarca;Churcampa;Huancavelica;-12.5161;-74.5261
+090511;Cosme;Churcampa;Huancavelica;-12.5731;-74.6581
+090601;Huaytara;Huaytara;Huancavelica;-13.605;-75.3525
+090602;Ayavi;Huaytara;Huancavelica;-13.7031;-75.3539
+090603;Cordova;Huaytara;Huancavelica;-14.04;-75.1833
+090604;Huayacundo Arma;Huaytara;Huancavelica;-13.5339;-75.3111
+090605;Laramarca;Huaytara;Huancavelica;-13.9494;-75.0375
+090606;Ocoyo;Huaytara;Huancavelica;-14.0086;-75.0225
+090607;Pilpichaca;Huaytara;Huancavelica;-13.3278;-75.0017
+090608;Querco;Huaytara;Huancavelica;-13.9803;-74.9764
+090609;Quito-Arma;Huaytara;Huancavelica;-13.5289;-75.3294
+090610;San Antonio de Cusicancha;Huaytara;Huancavelica;-13.5003;-75.2944
+090611;San Francisco de Sangayaico;Huaytara;Huancavelica;-13.7956;-75.25
+090612;San Isidro;Huaytara;Huancavelica;-13.9569;-75.24
+090613;Santiago de Chocorvos;Huaytara;Huancavelica;-13.8272;-75.2578
+090614;Santiago de Quirahuara;Huaytara;Huancavelica;-14.0547;-74.9783
+090615;Santo Domingo de Capillas;Huaytara;Huancavelica;-13.7356;-75.245
+090616;Tambo;Huaytara;Huancavelica;-13.6894;-75.2758
+090701;Pampas;Tayacaja;Huancavelica;-12.3956;-74.8672
+090702;Acostambo;Tayacaja;Huancavelica;-12.3653;-75.0572
+090703;Acraquia;Tayacaja;Huancavelica;-12.4097;-74.9031
+090704;Ahuaycha;Tayacaja;Huancavelica;-12.4081;-74.8919
+090705;Colcabamba;Tayacaja;Huancavelica;-12.4114;-74.6814
+090706;Daniel Hernandez;Tayacaja;Huancavelica;-12.3936;-74.8625
+090707;Huachocolpa;Tayacaja;Huancavelica;-12.0486;-74.5953
+090709;Huaribamba;Tayacaja;Huancavelica;-12.2794;-74.9406
+090710;Ñahuimpuquio;Tayacaja;Huancavelica;-12.3322;-75.0708
+090711;Pazos;Tayacaja;Huancavelica;-12.2589;-75.07
+090713;Quishuar;Tayacaja;Huancavelica;-12.2408;-74.7792
+090714;Salcabamba;Tayacaja;Huancavelica;-12.2011;-74.7825
+090715;Salcahuasi;Tayacaja;Huancavelica;-12.1031;-74.7508
+090716;San Marcos de Rocchac;Tayacaja;Huancavelica;-12.0939;-74.8656
+090717;Surcubamba;Tayacaja;Huancavelica;-12.1169;-74.63
+090718;Tintay Puncu;Tayacaja;Huancavelica;-12.1531;-74.5456
+090719;Quichuas;Tayacaja;Huancavelica;-12.4681;-74.7847
+090720;Andaymarca;Tayacaja;Huancavelica;-12.3147;-74.6364
+090721;Roble;Tayacaja;Huancavelica;-12.2169;-74.49
+090722;Pichos;Tayacaja;Huancavelica;-12.2347;-74.9444
+090723;Santiago de Túcuma;Tayacaja;Huancavelica;-12.3122;-74.9169
+100101;Huanuco;Huanuco;Huanuco;-9.9269;-76.2403
+100102;Amarilis;Huanuco;Huanuco;-9.9456;-76.2417
+100103;Chinchao;Huanuco;Huanuco;-9.8019;-76.0689
+100104;Churubamba;Huanuco;Huanuco;-9.8258;-76.1375
+100105;Margos;Huanuco;Huanuco;-10.0061;-76.5214
+100106;Quisqui;Huanuco;Huanuco;-9.9231;-76.3561
+100107;San Francisco de Cayran;Huanuco;Huanuco;-9.9822;-76.2847
+100108;San Pedro de Chaulan;Huanuco;Huanuco;-10.0581;-76.4822
+100109;Santa Maria del Valle;Huanuco;Huanuco;-9.8628;-76.1703
+100110;Yarumayo;Huanuco;Huanuco;-10.0022;-76.4683
+100111;Pillco Marca;Huanuco;Huanuco;-9.9578;-76.2492
+100112;Yacus;Huanuco;Huanuco;-9.9858;-76.5044
+100113;San Pablo de Pillao;Huanuco;Huanuco;-9.7894;-75.9986
+100201;Ambo;Ambo;Huanuco;-10.1294;-76.2047
+100202;Cayna;Ambo;Huanuco;-10.2717;-76.3872
+100203;Colpas;Ambo;Huanuco;-10.2672;-76.4144
+100204;Conchamarca;Ambo;Huanuco;-10.0367;-76.2156
+100205;Huacar;Ambo;Huanuco;-10.1614;-76.2356
+100206;San Francisco;Ambo;Huanuco;-10.3419;-76.2914
+100207;San Rafael;Ambo;Huanuco;-10.3403;-76.1828
+100208;Tomay Kichwa;Ambo;Huanuco;-10.0789;-76.2131
+100301;La Union;Dos de Mayo;Huanuco;-9.8278;-76.8003
+100307;Chuquis;Dos de Mayo;Huanuco;-9.6775;-76.7033
+100311;Marias;Dos de Mayo;Huanuco;-9.6061;-76.705
+100313;Pachas;Dos de Mayo;Huanuco;-9.7061;-76.7722
+100316;Quivilla;Dos de Mayo;Huanuco;-9.5967;-76.7253
+100317;Ripan;Dos de Mayo;Huanuco;-9.8261;-76.8033
+100321;Shunqui;Dos de Mayo;Huanuco;-9.7311;-76.7833
+100322;Sillapata;Dos de Mayo;Huanuco;-9.7581;-76.7742
+100323;Yanas;Dos de Mayo;Huanuco;-9.7144;-76.7489
+100401;Huacaybamba;Huacaybamba;Huanuco;-9.0372;-76.9519
+100402;Canchabamba;Huacaybamba;Huanuco;-8.8836;-77.1228
+100403;Cochabamba;Huacaybamba;Huanuco;-9.0922;-76.835
+100404;Pinra;Huacaybamba;Huanuco;-8.9239;-77.0125
+100501;Llata;Huamalies;Huanuco;-9.5506;-76.8156
+100502;Arancay;Huamalies;Huanuco;-9.1708;-76.7483
+100503;Chavin de Pariarca;Huamalies;Huanuco;-9.4231;-76.7692
+100504;Jacas Grande;Huamalies;Huanuco;-9.5397;-76.7358
+100505;Jircan;Huamalies;Huanuco;-9.2472;-76.7161
+100506;Miraflores;Huamalies;Huanuco;-9.4928;-76.8189
+100507;Monzon;Huamalies;Huanuco;-9.2842;-76.3978
+100508;Punchao;Huamalies;Huanuco;-9.4614;-76.8192
+100509;Puños;Huamalies;Huanuco;-9.5;-76.885
+100510;Singa;Huamalies;Huanuco;-9.3881;-76.8125
+100511;Tantamayo;Huamalies;Huanuco;-9.3928;-76.7183
+100601;Rupa-Rupa;Leoncio Prado;Huanuco;-9.2944;-75.9969
+100602;Daniel Alomias Robles;Leoncio Prado;Huanuco;-9.1839;-75.9406
+100603;Hermilio Valdizan;Leoncio Prado;Huanuco;-9.1525;-75.8261
+100604;Jose Crespo y Castillo;Leoncio Prado;Huanuco;-8.9319;-76.1147
+100605;Luyando;Leoncio Prado;Huanuco;-9.2469;-75.9919
+100606;Mariano Damaso Beraun;Leoncio Prado;Huanuco;-9.4164;-75.9661
+100607;Pucayacu;Leoncio Prado;Huanuco;-8.7492;-76.1253
+100608;Castillo Grande;Leoncio Prado;Huanuco;-9.2792;-76.0117
+100609;Pueblo Nuevo;Leoncio Prado;Huanuco;-9.0089;-76.0714
+100610;Santo Domingo de Anda;Leoncio Prado;Huanuco;-9.0089;-76.0714
+100701;Huacrachuco;Marañon;Huanuco;-8.6044;-77.1489
+100702;Cholon;Marañon;Huanuco;-8.6594;-76.8481
+100703;San Buenaventura;Marañon;Huanuco;-8.7681;-77.1867
+100704;La Morada;Marañon;Huanuco;-8.7933;-76.2497
+100705;Santa Rosa de Alto Yanajanca;Marañon;Huanuco;-8.6364;-76.3439
+100801;Panao;Pachitea;Huanuco;-9.8956;-75.9769
+100802;Chaglla;Pachitea;Huanuco;-9.8281;-75.9064
+100803;Molino;Pachitea;Huanuco;-9.9119;-76.0175
+100804;Umari;Pachitea;Huanuco;-9.8614;-76.0422
+100901;Puerto Inca;Puerto Inca;Huanuco;-9.3775;-74.9733
+100902;Codo del Pozuzo;Puerto Inca;Huanuco;-9.6758;-75.4533
+100903;Honoria;Puerto Inca;Huanuco;-8.7694;-74.7089
+100904;Tournavista;Puerto Inca;Huanuco;-8.9289;-74.7053
+100905;Yuyapichis;Puerto Inca;Huanuco;-9.6297;-74.9744
+101001;Jesus;Lauricocha;Huanuco;-10.0803;-76.6303
+101002;Baños;Lauricocha;Huanuco;-10.0769;-76.7356
+101003;Jivia;Lauricocha;Huanuco;-10.0236;-76.6811
+101004;Queropalca;Lauricocha;Huanuco;-10.1811;-76.8042
+101005;Rondos;Lauricocha;Huanuco;-9.9836;-76.6889
+101006;San Francisco de Asis;Lauricocha;Huanuco;-9.9772;-76.6758
+101007;San Miguel de Cauri;Lauricocha;Huanuco;-10.1431;-76.625
+101101;Chavinillo;Yarowilca;Huanuco;-9.8447;-76.6236
+101102;Cahuac;Yarowilca;Huanuco;-9.8494;-76.6319
+101103;Chacabamba;Yarowilca;Huanuco;-9.9014;-76.6097
+101104;Aparicio Pomares;Yarowilca;Huanuco;-9.7486;-76.6478
+101105;Jacas Chico;Yarowilca;Huanuco;-9.8872;-76.5017
+101106;Obas;Yarowilca;Huanuco;-9.7953;-76.6658
+101107;Pampamarca;Yarowilca;Huanuco;-9.7061;-76.7028
+101108;Choras;Yarowilca;Huanuco;-9.9108;-76.6036
+110101;Ica;Ica;Ica;-14.0678;-75.7319
+110102;La Tinguiña;Ica;Ica;-14.035;-75.7092
+110103;Los Aquijes;Ica;Ica;-14.0978;-75.6911
+110104;Ocucaje;Ica;Ica;-14.3433;-75.6608
+110105;Pachacutec;Ica;Ica;-14.1528;-75.6925
+110106;Parcona;Ica;Ica;-14.0453;-75.7058
+110107;Pueblo Nuevo;Ica;Ica;-14.1275;-75.7031
+110108;Salas;Ica;Ica;-13.9861;-75.7733
+110109;San Jose de los Molinos;Ica;Ica;-13.9283;-75.6669
+110110;San Juan Bautista;Ica;Ica;-14.0114;-75.7372
+110111;Santiago;Ica;Ica;-14.1922;-75.7142
+110112;Subtanjalla;Ica;Ica;-14.0194;-75.7597
+110113;Tate;Ica;Ica;-14.1528;-75.7092
+110114;Yauca del Rosario;Ica;Ica;-14.1014;-75.4783
+110201;Chincha Alta;Chincha;Ica;-13.42;-76.1356
+110202;Alto Laran;Chincha;Ica;-13.4444;-76.1067
+110203;Chavin;Chincha;Ica;-13.0789;-75.9119
+110204;Chincha Baja;Chincha;Ica;-13.4597;-76.1647
+110205;El Carmen;Chincha;Ica;-13.5019;-76.0536
+110206;Grocio Prado;Chincha;Ica;-13.3986;-76.1592
+110207;Pueblo Nuevo;Chincha;Ica;-13.4019;-76.1269
+110208;San Juan de Yanac;Chincha;Ica;-13.2108;-75.7861
+110209;San Pedro de Huacarpana;Chincha;Ica;-13.0492;-75.6483
+110210;Sunampe;Chincha;Ica;-13.4269;-76.1647
+110211;Tambo de Mora;Chincha;Ica;-13.4592;-76.1839
+110301;Nazca;Nazca;Ica;-14.8328;-74.9361
+110302;Changuillo;Nazca;Ica;-14.6653;-75.2253
+110303;El Ingenio;Nazca;Ica;-14.6464;-75.06
+110304;Marcona;Nazca;Ica;-15.3619;-75.1681
+110305;Vista Alegre;Nazca;Ica;-14.8453;-74.9469
+110401;Palpa;Palpa;Ica;-14.5339;-75.1839
+110402;Llipata;Palpa;Ica;-14.5636;-75.2078
+110403;Rio Grande;Palpa;Ica;-14.5194;-75.2006
+110404;Santa Cruz;Palpa;Ica;-14.4914;-75.2639
+110405;Tibillo;Palpa;Ica;-14.0931;-75.1728
+110501;Pisco;Pisco;Ica;-13.7086;-76.2075
+110502;Huancano;Pisco;Ica;-13.5992;-75.6203
+110503;Humay;Pisco;Ica;-13.7222;-75.885
+110504;Independencia;Pisco;Ica;-13.6939;-76.0256
+110505;Paracas;Pisco;Ica;-13.8428;-76.2503
+110506;San Andres;Pisco;Ica;-13.7311;-76.2211
+110507;San Clemente;Pisco;Ica;-13.6839;-76.1592
+110508;Tupac Amaru Inca;Pisco;Ica;-13.7119;-76.1492
+120101;Huancayo;Huancayo;Junin;-12.0703;-75.2139
+120104;Carhuacallanga;Huancayo;Junin;-12.3544;-75.2033
+120105;Chacapampa;Huancayo;Junin;-12.3444;-75.2472
+120106;Chicche;Huancayo;Junin;-12.2961;-75.2964
+120107;Chilca;Huancayo;Junin;-12.0817;-75.2028
+120108;Chongos Alto;Huancayo;Junin;-12.3128;-75.2925
+120111;Chupuro;Huancayo;Junin;-12.1561;-75.245
+120112;Colca;Huancayo;Junin;-12.3169;-75.2258
+120113;Cullhuas;Huancayo;Junin;-12.2233;-75.1747
+120114;El Tambo;Huancayo;Junin;-12.055;-75.2206
+120116;Huacrapuquio;Huancayo;Junin;-12.1725;-75.2236
+120117;Hualhuas;Huancayo;Junin;-11.9692;-75.2536
+120119;Huancan;Huancayo;Junin;-12.1064;-75.2186
+120120;Huasicancha;Huancayo;Junin;-12.3331;-75.2844
+120121;Huayucachi;Huancayo;Junin;-12.1367;-75.2247
+120122;Ingenio;Huancayo;Junin;-11.8903;-75.2686
+120124;Pariahuanca;Huancayo;Junin;-11.9792;-74.8967
+120125;Pilcomayo;Huancayo;Junin;-12.0497;-75.2528
+120126;Pucara;Huancayo;Junin;-12.1719;-75.1475
+120127;Quichuay;Huancayo;Junin;-11.8875;-75.2872
+120128;Quilcas;Huancayo;Junin;-11.9383;-75.2611
+120129;San Agustin;Huancayo;Junin;-11.9914;-75.2481
+120130;San Jeronimo de Tunan;Huancayo;Junin;-11.9483;-75.2856
+120132;Saño;Huancayo;Junin;-11.955;-75.2606
+120133;Sapallanga;Huancayo;Junin;-12.1403;-75.1597
+120134;Sicaya;Huancayo;Junin;-12.0125;-75.2833
+120135;Santo Domingo de Acobamba;Huancayo;Junin;-11.7689;-74.7953
+120136;Viques;Huancayo;Junin;-12.1603;-75.2342
+120201;Concepcion;Concepcion;Junin;-11.9181;-75.3161
+120202;Aco;Concepcion;Junin;-11.9594;-75.3636
+120203;Andamarca;Concepcion;Junin;-11.7319;-74.8058
+120204;Chambara;Concepcion;Junin;-12.0286;-75.3783
+120205;Cochas;Concepcion;Junin;-11.6597;-75.1033
+120206;Comas;Concepcion;Junin;-11.7183;-75.0839
+120207;Heroinas Toledo;Concepcion;Junin;-11.8353;-75.2911
+120208;Manzanares;Concepcion;Junin;-12.0217;-75.3489
+120209;Mariscal Castilla;Concepcion;Junin;-11.6158;-75.0942
+120210;Matahuasi;Concepcion;Junin;-11.8917;-75.3539
+120211;Mito;Concepcion;Junin;-11.9375;-75.3417
+120212;Nueve de Julio;Concepcion;Junin;-11.9019;-75.3217
+120213;Orcotuna;Concepcion;Junin;-11.9681;-75.3131
+120214;San Jose de Quero;Concepcion;Junin;-12.0856;-75.5383
+120215;Santa Rosa de Ocopa;Concepcion;Junin;-11.8769;-75.2944
+120301;Chanchamayo;Chanchamayo;Junin;-11.0558;-75.3292
+120302;Perene;Chanchamayo;Junin;-10.9522;-75.2244
+120303;Pichanaqui;Chanchamayo;Junin;-10.9303;-74.8728
+120304;San Luis de Shuaro;Chanchamayo;Junin;-10.8894;-75.2911
+120305;San Ramon;Chanchamayo;Junin;-11.1214;-75.3528
+120306;Vitoc;Chanchamayo;Junin;-11.2083;-75.3372
+120401;Jauja;Jauja;Junin;-11.7761;-75.4992
+120402;Acolla;Jauja;Junin;-11.7317;-75.5489
+120403;Apata;Jauja;Junin;-11.8558;-75.3569
+120404;Ataura;Jauja;Junin;-11.8022;-75.4411
+120405;Canchayllo;Jauja;Junin;-11.8011;-75.72
+120406;Curicaca;Jauja;Junin;-11.7842;-75.6781
+120407;El Mantaro;Jauja;Junin;-11.8222;-75.3942
+120408;Huamali;Jauja;Junin;-11.8083;-75.4269
+120409;Huaripampa;Jauja;Junin;-11.8086;-75.4739
+120410;Huertas;Jauja;Junin;-11.7686;-75.4769
+120411;Janjaillo;Jauja;Junin;-11.7658;-75.6275
+120412;Julcan;Jauja;Junin;-11.7608;-75.4392
+120413;Leonor Ordoñez;Jauja;Junin;-11.8633;-75.4169
+120414;Llocllapampa;Jauja;Junin;-11.8189;-75.6261
+120415;Marco;Jauja;Junin;-11.7419;-75.5639
+120416;Masma;Jauja;Junin;-11.7867;-75.4289
+120417;Masma Chicche;Jauja;Junin;-11.7864;-75.38
+120418;Molinos;Jauja;Junin;-11.7378;-75.4467
+120419;Monobamba;Jauja;Junin;-11.3606;-75.3278
+120420;Muqui;Jauja;Junin;-11.8342;-75.4369
+120421;Muquiyauyo;Jauja;Junin;-11.8147;-75.4581
+120422;Paca;Jauja;Junin;-11.7117;-75.5189
+120423;Paccha;Jauja;Junin;-11.8553;-75.5111
+120424;Pancan;Jauja;Junin;-11.7503;-75.4883
+120425;Parco;Jauja;Junin;-11.8022;-75.5469
+120426;Pomacancha;Jauja;Junin;-11.7381;-75.6264
+120427;Ricran;Jauja;Junin;-11.5411;-75.5289
+120428;San Lorenzo;Jauja;Junin;-11.8472;-75.3842
+120429;San Pedro de Chunan;Jauja;Junin;-11.7247;-75.4894
+120430;Sausa;Jauja;Junin;-11.7939;-75.4872
+120431;Sincos;Jauja;Junin;-11.8917;-75.3903
+120432;Tunan Marca;Jauja;Junin;-11.7269;-75.5731
+120433;Yauli;Jauja;Junin;-11.7117;-75.4725
+120434;Yauyos;Jauja;Junin;-11.7822;-75.4989
+120501;Junin;Junin;Junin;-11.1597;-75.9956
+120502;Carhuamayo;Junin;Junin;-10.9233;-76.0569
+120503;Ondores;Junin;Junin;-11.0878;-76.1486
+120504;Ulcumayo;Junin;Junin;-10.9689;-75.8778
+120601;Satipo;Satipo;Junin;-11.2531;-74.6372
+120602;Coviriali;Satipo;Junin;-11.2906;-74.6283
+120603;Llaylla;Satipo;Junin;-11.3808;-74.5906
+120604;Mazamari;Satipo;Junin;-11.4056;-74.7519
+120605;Pampa Hermosa;Satipo;Junin;-11.4056;-74.7519
+120606;Pangoa;Satipo;Junin;-11.2086;-74.6597
+120607;Rio Negro;Satipo;Junin;-11.1469;-74.31
+120608;Rio Tambo;Satipo;Junin;-11.2531;-74.6372
+120609;Vizcatán del Ene;Satipo;Junin;-12.2153;-74.0158
+120701;Tarma;Tarma;Junin;-11.4206;-75.6908
+120702;Acobamba;Tarma;Junin;-11.3528;-75.6592
+120703;Huaricolca;Tarma;Junin;-11.5089;-75.6514
+120704;Huasahuasi;Tarma;Junin;-11.2667;-75.6522
+120705;La Union;Tarma;Junin;-11.3756;-75.7547
+120706;Palca;Tarma;Junin;-11.3469;-75.5681
+120707;Palcamayo;Tarma;Junin;-11.2956;-75.7731
+120708;San Pedro de Cajas;Tarma;Junin;-11.2503;-75.8647
+120709;Tapo;Tarma;Junin;-11.3903;-75.5636
+120801;La Oroya;Yauli;Junin;-11.5206;-75.9014
+120802;Chacapalpa;Yauli;Junin;-11.7328;-75.7556
+120803;Huay-Huay;Yauli;Junin;-11.7219;-75.9042
+120804;Marcapomacocha;Yauli;Junin;-11.4056;-76.3364
+120805;Morococha;Yauli;Junin;-11.5972;-76.14
+120806;Paccha;Yauli;Junin;-11.4794;-75.9669
+120807;Santa Barbara de Carhuacayan;Yauli;Junin;-11.2008;-76.2883
+120808;Santa Rosa de Sacco;Yauli;Junin;-11.5617;-75.95
+120809;Suitucancha;Yauli;Junin;-11.7875;-75.9358
+120810;Yauli;Yauli;Junin;-11.6672;-76.0883
+120901;Chupaca;Chupaca;Junin;-12.0625;-75.2897
+120902;Ahuac;Chupaca;Junin;-12.0789;-75.3197
+120903;Chongos Bajo;Chupaca;Junin;-12.1361;-75.2681
+120904;Huachac;Chupaca;Junin;-12.0225;-75.3436
+120905;Huamancaca Chico;Chupaca;Junin;-12.0797;-75.245
+120906;San Juan de Yscos;Chupaca;Junin;-12.1014;-75.2922
+120907;San Juan de Jarpa;Chupaca;Junin;-12.1239;-75.44
+120908;Tres de Diciembre;Chupaca;Junin;-12.1108;-75.2547
+120909;Yanacancha;Chupaca;Junin;-12.2008;-75.3864
+130101;Trujillo;Trujillo;La Libertad;-8.1094;-79.0333
+130102;El Porvenir;Trujillo;La Libertad;-8.0819;-79.0025
+130103;Florencia de Mora;Trujillo;La Libertad;-8.0808;-79.0236
+130104;Huanchaco;Trujillo;La Libertad;-8.0814;-79.1214
+130105;La Esperanza;Trujillo;La Libertad;-8.0781;-79.0453
+130106;Laredo;Trujillo;La Libertad;-8.0911;-78.9611
+130107;Moche;Trujillo;La Libertad;-8.1722;-79.0111
+130108;Poroto;Trujillo;La Libertad;-8.0114;-78.7697
+130109;Salaverry;Trujillo;La Libertad;-8.2231;-78.9781
+130110;Simbal;Trujillo;La Libertad;-7.9767;-78.8147
+130111;Victor Larco Herrera;Trujillo;La Libertad;-8.1439;-79.0558
+130201;Ascope;Ascope;La Libertad;-7.7131;-79.1156
+130202;Chicama;Ascope;La Libertad;-7.8442;-79.1461
+130203;Chocope;Ascope;La Libertad;-7.7914;-79.2225
+130204;Magdalena de Cao;Ascope;La Libertad;-7.8767;-79.2947
+130205;Paijan;Ascope;La Libertad;-7.7319;-79.3019
+130206;Razuri;Ascope;La Libertad;-7.7025;-79.4406
+130207;Santiago de Cao;Ascope;La Libertad;-7.9608;-79.2392
+130208;Casa Grande;Ascope;La Libertad;-7.7442;-79.1869
+130301;Bolivar;Bolivar;La Libertad;-7.1547;-77.7044
+130302;Bambamarca;Bolivar;La Libertad;-7.4414;-77.6947
+130303;Condormarca;Bolivar;La Libertad;-7.5556;-77.5981
+130304;Longotea;Bolivar;La Libertad;-7.0428;-77.8744
+130305;Uchumarca;Bolivar;La Libertad;-7.0481;-77.8078
+130306;Ucuncha;Bolivar;La Libertad;-7.1656;-77.8617
+130401;Chepen;Chepen;La Libertad;-7.2267;-79.4292
+130402;Pacanga;Chepen;La Libertad;-7.1731;-79.4867
+130403;Pueblo Nuevo;Chepen;La Libertad;-7.1883;-79.5142
+130501;Julcan;Julcan;La Libertad;-8.0439;-78.4881
+130502;Calamarca;Julcan;La Libertad;-8.1644;-78.4153
+130503;Carabamba;Julcan;La Libertad;-8.1108;-78.6092
+130504;Huaso;Julcan;La Libertad;-8.2233;-78.4158
+130601;Otuzco;Otuzco;La Libertad;-7.9022;-78.5669
+130602;Agallpampa;Otuzco;La Libertad;-7.9853;-78.5481
+130604;Charat;Otuzco;La Libertad;-7.8247;-78.4506
+130605;Huaranchal;Otuzco;La Libertad;-7.6908;-78.4444
+130606;La Cuesta;Otuzco;La Libertad;-7.9189;-78.7081
+130608;Mache;Otuzco;La Libertad;-8.0303;-78.5367
+130610;Paranday;Otuzco;La Libertad;-7.8847;-78.7119
+130611;Salpo;Otuzco;La Libertad;-8.0053;-78.6064
+130613;Sinsicap;Otuzco;La Libertad;-7.8517;-78.7561
+130614;Usquil;Otuzco;La Libertad;-7.8156;-78.4192
+130701;San Pedro de Lloc;Pacasmayo;La Libertad;-7.4278;-79.5036
+130702;Guadalupe;Pacasmayo;La Libertad;-7.2428;-79.4717
+130703;Jequetepeque;Pacasmayo;La Libertad;-7.3369;-79.5628
+130704;Pacasmayo;Pacasmayo;La Libertad;-7.4006;-79.5686
+130705;San Jose;Pacasmayo;La Libertad;-7.3494;-79.4569
+130801;Tayabamba;Pataz;La Libertad;-8.2769;-77.2986
+130802;Buldibuyo;Pataz;La Libertad;-8.1281;-77.3981
+130803;Chillia;Pataz;La Libertad;-8.1258;-77.5169
+130804;Huancaspata;Pataz;La Libertad;-8.4575;-77.3011
+130805;Huaylillas;Pataz;La Libertad;-8.1867;-77.3447
+130806;Huayo;Pataz;La Libertad;-8.0053;-77.5936
+130807;Ongon;Pataz;La Libertad;-8.1689;-76.9664
+130808;Parcoy;Pataz;La Libertad;-8.035;-77.4817
+130809;Pataz;Pataz;La Libertad;-7.7856;-77.5942
+130810;Pias;Pataz;La Libertad;-7.8728;-77.5494
+130811;Santiago de Challas;Pataz;La Libertad;-8.4389;-77.3239
+130812;Taurija;Pataz;La Libertad;-8.3083;-77.425
+130813;Urpay;Pataz;La Libertad;-8.3478;-77.3917
+130901;Huamachuco;Sanchez Carrion;La Libertad;-7.8153;-78.0525
+130902;Chugay;Sanchez Carrion;La Libertad;-7.7825;-77.8694
+130903;Cochorco;Sanchez Carrion;La Libertad;-7.8058;-77.72
+130904;Curgos;Sanchez Carrion;La Libertad;-7.8592;-77.9431
+130905;Marcabal;Sanchez Carrion;La Libertad;-7.7053;-78.0306
+130906;Sanagoran;Sanchez Carrion;La Libertad;-7.7856;-78.1411
+130907;Sarin;Sanchez Carrion;La Libertad;-7.9122;-77.9044
+130908;Sartimbamba;Sanchez Carrion;La Libertad;-7.6994;-77.7411
+131001;Santiago de Chuco;Santiago de Chuco;La Libertad;-8.1456;-78.1753
+131002;Angasmarca;Santiago de Chuco;La Libertad;-8.1331;-78.0547
+131003;Cachicadan;Santiago de Chuco;La Libertad;-8.0917;-78.1467
+131004;Mollebamba;Santiago de Chuco;La Libertad;-8.1706;-77.9764
+131005;Mollepata;Santiago de Chuco;La Libertad;-8.1908;-77.9558
+131006;Quiruvilca;Santiago de Chuco;La Libertad;-8.0025;-78.3108
+131007;Santa Cruz de Chuca;Santiago de Chuco;La Libertad;-8.1194;-78.1411
+131008;Sitabamba;Santiago de Chuco;La Libertad;-8.0231;-77.7314
+131101;Cascas;Gran Chimu;La Libertad;-7.4803;-78.8167
+131102;Lucma;Gran Chimu;La Libertad;-7.6406;-78.5511
+131103;Compin;Gran Chimu;La Libertad;-7.6981;-78.6256
+131104;Sayapullo;Gran Chimu;La Libertad;-7.5964;-78.4681
+131201;Viru;Viru;La Libertad;-8.4156;-78.7511
+131202;Chao;Viru;La Libertad;-8.5394;-78.6825
+131203;Guadalupito;Viru;La Libertad;-8.9519;-78.6258
+140101;Chiclayo;Chiclayo;Lambayeque;-6.7736;-79.8397
+140102;Chongoyape;Chiclayo;Lambayeque;-6.6428;-79.3842
+140103;Eten;Chiclayo;Lambayeque;-6.9072;-79.8644
+140104;Eten Puerto;Chiclayo;Lambayeque;-6.9269;-79.8664
+140105;Jose Leonardo Ortiz;Chiclayo;Lambayeque;-6.7592;-79.8408
+140106;La Victoria;Chiclayo;Lambayeque;-6.7883;-79.8367
+140107;Lagunas;Chiclayo;Lambayeque;-6.9911;-79.6244
+140108;Monsefu;Chiclayo;Lambayeque;-6.8786;-79.8714
+140109;Nueva Arica;Chiclayo;Lambayeque;-6.8731;-79.3386
+140110;Oyotun;Chiclayo;Lambayeque;-6.8458;-79.2981
+140111;Picsi;Chiclayo;Lambayeque;-6.7186;-79.7708
+140112;Pimentel;Chiclayo;Lambayeque;-6.8369;-79.9361
+140113;Reque;Chiclayo;Lambayeque;-6.8644;-79.8181
+140114;Santa Rosa;Chiclayo;Lambayeque;-6.88;-79.9231
+140115;Saña;Chiclayo;Lambayeque;-6.9233;-79.5839
+140116;Cayalti;Chiclayo;Lambayeque;-6.8917;-79.5617
+140117;Patapo;Chiclayo;Lambayeque;-6.7386;-79.6406
+140118;Pomalca;Chiclayo;Lambayeque;-6.7667;-79.7728
+140119;Pucala;Chiclayo;Lambayeque;-6.78;-79.6122
+140120;Tuman;Chiclayo;Lambayeque;-6.7478;-79.7017
+140201;Ferreñafe;Ferreñafe;Lambayeque;-6.6394;-79.7911
+140202;Cañaris;Ferreñafe;Lambayeque;-6.0447;-79.2647
+140203;Incahuasi;Ferreñafe;Lambayeque;-6.2372;-79.315
+140204;Manuel Antonio Mesones Muro;Ferreñafe;Lambayeque;-6.6456;-79.7361
+140205;Pitipo;Ferreñafe;Lambayeque;-6.5664;-79.7808
+140206;Pueblo Nuevo;Ferreñafe;Lambayeque;-6.6367;-79.7947
+140301;Lambayeque;Lambayeque;Lambayeque;-6.7006;-79.9072
+140302;Chochope;Lambayeque;Lambayeque;-6.1586;-79.6469
+140303;Illimo;Lambayeque;Lambayeque;-6.4733;-79.8531
+140304;Jayanca;Lambayeque;Lambayeque;-6.3881;-79.8211
+140305;Mochumi;Lambayeque;Lambayeque;-6.5467;-79.8647
+140306;Morrope;Lambayeque;Lambayeque;-6.54;-80.0128
+140307;Motupe;Lambayeque;Lambayeque;-6.1536;-79.7153
+140308;Olmos;Lambayeque;Lambayeque;-5.9883;-79.75
+140309;Pacora;Lambayeque;Lambayeque;-6.4275;-79.84
+140310;Salas;Lambayeque;Lambayeque;-6.2736;-79.6044
+140311;San Jose;Lambayeque;Lambayeque;-6.7703;-79.9686
+140312;Tucume;Lambayeque;Lambayeque;-6.5097;-79.8594
+150101;Lima;Lima;Lima;-12.0467;-77.0322
+150102;Ancon;Lima;Lima;-11.7764;-77.1703
+150103;Ate;Lima;Lima;-12.0256;-76.9242
+150104;Barranco;Lima;Lima;-12.1494;-77.0247
+150105;Breña;Lima;Lima;-12.0567;-77.0536
+150106;Carabayllo;Lima;Lima;-11.8583;-77.0419
+150107;Chaclacayo;Lima;Lima;-11.9783;-76.7642
+150108;Chorrillos;Lima;Lima;-12.1742;-77.0247
+150109;Cieneguilla;Lima;Lima;-12.1178;-76.8125
+150110;Comas;Lima;Lima;-11.95;-77.05
+150111;El Agustino;Lima;Lima;-12.0433;-76.9986
+150112;Independencia;Lima;Lima;-12.0008;-77.0522
+150113;Jesus Maria;Lima;Lima;-12.0697;-77.045
+150114;La Molina;Lima;Lima;-12.0875;-76.9339
+150115;La Victoria;Lima;Lima;-12.0653;-77.0308
+150116;Lince;Lima;Lima;-12.0811;-77.0306
+150117;Los Olivos;Lima;Lima;-11.9828;-77.0694
+150118;Lurigancho;Lima;Lima;-11.9372;-76.7036
+150119;Lurin;Lima;Lima;-12.2686;-76.8847
+150120;Magdalena del Mar;Lima;Lima;-12.0967;-77.0747
+150121;Pueblo Libre;Lima;Lima;-12.0733;-77.0631
+150122;Miraflores;Lima;Lima;-12.1175;-77.0453
+150123;Pachacamac;Lima;Lima;-12.2286;-76.8597
+150124;Pucusana;Lima;Lima;-12.4825;-76.7964
+150125;Puente Piedra;Lima;Lima;-11.8464;-77.1058
+150126;Punta Hermosa;Lima;Lima;-12.3375;-76.8258
+150127;Punta Negra;Lima;Lima;-12.3661;-76.7947
+150128;Rimac;Lima;Lima;-12.0294;-77.0436
+150129;San Bartolo;Lima;Lima;-12.3883;-76.7806
+150130;San Borja;Lima;Lima;-12.1078;-76.9989
+150131;San Isidro;Lima;Lima;-12.0989;-77.0344
+150132;San Juan de Lurigancho;Lima;Lima;-12.0244;-77.0025
+150133;San Juan de Miraflores;Lima;Lima;-12.1589;-76.9722
+150134;San Luis;Lima;Lima;-12.0728;-76.9975
+150135;San Martin de Porres;Lima;Lima;-12.0303;-77.0469
+150136;San Miguel;Lima;Lima;-12.09;-77.0864
+150137;Santa Anita;Lima;Lima;-12.0433;-76.985
+150138;Santa Maria del Mar;Lima;Lima;-12.4092;-76.7758
+150139;Santa Rosa;Lima;Lima;-11.7983;-77.1775
+150140;Santiago de Surco;Lima;Lima;-12.1506;-77.0078
+150141;Surquillo;Lima;Lima;-12.1136;-77.0081
+150142;Villa El Salvador;Lima;Lima;-12.2164;-76.9433
+150143;Villa Maria del Triunfo;Lima;Lima;-12.1572;-76.9528
+150201;Barranca;Barranca;Lima;-10.7564;-77.7603
+150202;Paramonga;Barranca;Lima;-10.6742;-77.8197
+150203;Pativilca;Barranca;Lima;-10.6961;-77.7792
+150204;Supe;Barranca;Lima;-10.7992;-77.7133
+150205;Supe Puerto;Barranca;Lima;-10.8003;-77.7447
+150301;Cajatambo;Cajatambo;Lima;-10.4722;-76.9939
+150302;Copa;Cajatambo;Lima;-10.3856;-77.0789
+150303;Gorgor;Cajatambo;Lima;-10.6214;-77.0389
+150304;Huancapon;Cajatambo;Lima;-10.5483;-77.1128
+150305;Manas;Cajatambo;Lima;-10.5953;-77.1669
+150401;Canta;Canta;Lima;-11.4675;-76.6231
+150402;Arahuay;Canta;Lima;-11.6222;-76.6731
+150403;Huamantanga;Canta;Lima;-11.4997;-76.7489
+150404;Huaros;Canta;Lima;-11.4058;-76.5761
+150405;Lachaqui;Canta;Lima;-11.5567;-76.6244
+150406;San Buenaventura;Canta;Lima;-11.4897;-76.6631
+150407;Santa Rosa de Quives;Canta;Lima;-11.6928;-76.8444
+150501;San Vicente de Cañete;Cañete;Lima;-13.0825;-76.3883
+150502;Asia;Cañete;Lima;-12.7789;-76.5572
+150503;Calango;Cañete;Lima;-12.5256;-76.5433
+150504;Cerro Azul;Cañete;Lima;-13.0267;-76.4794
+150505;Chilca;Cañete;Lima;-12.5172;-76.7361
+150506;Coayllo;Cañete;Lima;-12.7258;-76.4606
+150507;Imperial;Cañete;Lima;-13.0608;-76.35
+150508;Lunahuana;Cañete;Lima;-12.9597;-76.1392
+150509;Mala;Cañete;Lima;-12.6553;-76.63
+150510;Nuevo Imperial;Cañete;Lima;-13.0742;-76.3158
+150511;Pacaran;Cañete;Lima;-12.8636;-76.0519
+150512;Quilmana;Cañete;Lima;-12.95;-76.3828
+150513;San Antonio;Cañete;Lima;-12.6431;-76.65
+150514;San Luis;Cañete;Lima;-13.0508;-76.4294
+150515;Santa Cruz de Flores;Cañete;Lima;-12.6194;-76.6397
+150516;Zuñiga;Cañete;Lima;-12.8581;-76.0225
+150601;Huaral;Huaral;Lima;-11.4914;-77.2053
+150602;Atavillos Alto;Huaral;Lima;-11.2331;-76.6561
+150603;Atavillos Bajo;Huaral;Lima;-11.3533;-76.8231
+150604;Aucallama;Huaral;Lima;-11.5592;-77.1744
+150605;Chancay;Huaral;Lima;-11.5669;-77.2658
+150606;Ihuari;Huaral;Lima;-11.1889;-76.9519
+150607;Lampian;Huaral;Lima;-11.2369;-76.8386
+150608;Pacaraos;Huaral;Lima;-11.1833;-76.6464
+150609;San Miguel de Acos;Huaral;Lima;-11.2736;-76.8214
+150610;Santa Cruz de Andamarca;Huaral;Lima;-11.1947;-76.6336
+150611;Sumbilca;Huaral;Lima;-11.4072;-76.8194
+150612;Veintisiete de Noviembre;Huaral;Lima;-11.1919;-76.7786
+150701;Matucana;Huarochiri;Lima;-11.8458;-76.3878
+150702;Antioquia;Huarochiri;Lima;-12.0814;-76.5133
+150703;Callahuanca;Huarochiri;Lima;-11.8275;-76.6203
+150704;Carampoma;Huarochiri;Lima;-11.6561;-76.5181
+150705;Chicla;Huarochiri;Lima;-11.7078;-76.2711
+150706;Cuenca;Huarochiri;Lima;-12.1336;-76.4378
+150707;Huachupampa;Huarochiri;Lima;-11.7228;-76.59
+150708;Huanza;Huarochiri;Lima;-11.6561;-76.5069
+150709;Huarochiri;Huarochiri;Lima;-12.1381;-76.2344
+150710;Lahuaytambo;Huarochiri;Lima;-12.0969;-76.3911
+150711;Langa;Huarochiri;Lima;-12.1253;-76.4233
+150712;Laraos;Huarochiri;Lima;-11.6647;-76.5422
+150713;Mariatana;Huarochiri;Lima;-12.2378;-76.3261
+150714;Ricardo Palma;Huarochiri;Lima;-11.925;-76.6617
+150715;San Andres de Tupicocha;Huarochiri;Lima;-12.0008;-76.4778
+150716;San Antonio;Huarochiri;Lima;-11.7439;-76.6519
+150717;San Bartolome;Huarochiri;Lima;-11.9114;-76.5275
+150718;San Damian;Huarochiri;Lima;-12.0178;-76.3936
+150719;San Juan de Iris;Huarochiri;Lima;-11.6847;-76.5275
+150720;San Juan de Tantaranche;Huarochiri;Lima;-12.1136;-76.185
+150721;San Lorenzo de Quinti;Huarochiri;Lima;-12.1453;-76.2133
+150722;San Mateo;Huarochiri;Lima;-11.7589;-76.3031
+150723;San Mateo de Otao;Huarochiri;Lima;-11.8686;-76.5475
+150724;San Pedro de Casta;Huarochiri;Lima;-11.7583;-76.5989
+150725;San Pedro de Huancayre;Huarochiri;Lima;-12.1311;-76.2186
+150726;Sangallaya;Huarochiri;Lima;-12.1606;-76.2297
+150727;Santa Cruz de Cocachacra;Huarochiri;Lima;-11.9108;-76.5406
+150728;Santa Eulalia;Huarochiri;Lima;-11.9106;-76.6656
+150729;Santiago de Anchucaya;Huarochiri;Lima;-12.0961;-76.2325
+150730;Santiago de Tuna;Huarochiri;Lima;-11.985;-76.5275
+150731;Santo Domingo de los Olleros;Huarochiri;Lima;-12.2203;-76.5161
+150732;Surco;Huarochiri;Lima;-11.885;-76.4425
+150801;Huacho;Huaura;Lima;-11.1069;-77.61
+150802;Ambar;Huaura;Lima;-10.7572;-77.2694
+150803;Caleta de Carquin;Huaura;Lima;-11.0917;-77.6278
+150804;Checras;Huaura;Lima;-10.935;-76.8336
+150805;Hualmay;Huaura;Lima;-11.1014;-77.61
+150806;Huaura;Huaura;Lima;-11.0692;-77.6003
+150807;Leoncio Prado;Huaura;Lima;-11.0586;-76.9308
+150808;Paccho;Huaura;Lima;-10.9567;-76.9336
+150809;Santa Leonor;Huaura;Lima;-10.9483;-76.7447
+150810;Santa Maria;Huaura;Lima;-11.0883;-77.5883
+150811;Sayan;Huaura;Lima;-11.1364;-77.1917
+150812;Vegueta;Huaura;Lima;-11.0225;-77.6425
+150901;Oyon;Oyon;Lima;-10.6692;-76.7728
+150902;Andajes;Oyon;Lima;-10.7914;-76.91
+150903;Caujul;Oyon;Lima;-10.8053;-76.9786
+150904;Cochamarca;Oyon;Lima;-10.8617;-77.1278
+150905;Navan;Oyon;Lima;-10.8353;-77.0122
+150906;Pachangara;Oyon;Lima;-10.8125;-76.8744
+151001;Yauyos;Yauyos;Lima;-12.46;-75.9217
+151002;Alis;Yauyos;Lima;-12.2803;-75.7864
+151003;Ayauca;Yauyos;Lima;-12.5922;-76.0367
+151004;Ayaviri;Yauyos;Lima;-12.3825;-76.1389
+151005;Azangaro;Yauyos;Lima;-12.9994;-75.8367
+151006;Cacra;Yauyos;Lima;-12.8119;-75.7828
+151007;Carania;Yauyos;Lima;-12.3444;-75.8717
+151008;Catahuasi;Yauyos;Lima;-12.8003;-75.8911
+151009;Chocos;Yauyos;Lima;-12.9133;-75.8631
+151010;Cochas;Yauyos;Lima;-12.2964;-76.1589
+151011;Colonia;Yauyos;Lima;-12.6319;-75.8906
+151012;Hongos;Yauyos;Lima;-12.8108;-75.7647
+151013;Huampara;Yauyos;Lima;-12.3608;-76.1661
+151014;Huancaya;Yauyos;Lima;-12.2028;-75.7992
+151015;Huangascar;Yauyos;Lima;-12.8997;-75.8311
+151016;Huantan;Yauyos;Lima;-12.4572;-75.8106
+151017;Huañec;Yauyos;Lima;-12.2939;-76.1386
+151018;Laraos;Yauyos;Lima;-12.3456;-75.7856
+151019;Lincha;Yauyos;Lima;-12.8;-75.6658
+151020;Madean;Yauyos;Lima;-12.945;-75.7775
+151021;Miraflores;Yauyos;Lima;-12.2747;-75.8536
+151022;Omas;Yauyos;Lima;-12.5172;-76.2903
+151023;Putinza;Yauyos;Lima;-12.6689;-75.9494
+151024;Quinches;Yauyos;Lima;-12.3075;-76.1422
+151025;Quinocay;Yauyos;Lima;-12.3642;-76.2264
+151026;San Joaquin;Yauyos;Lima;-12.2844;-76.1464
+151027;San Pedro de Pilas;Yauyos;Lima;-12.4544;-76.2267
+151028;Tanta;Yauyos;Lima;-12.1214;-76.0122
+151029;Tauripampa;Yauyos;Lima;-12.6156;-76.16
+151030;Tomas;Yauyos;Lima;-12.2372;-75.7461
+151031;Tupe;Yauyos;Lima;-12.7403;-75.8089
+151032;Viñac;Yauyos;Lima;-12.9311;-75.7794
+151033;Vitis;Yauyos;Lima;-12.2236;-75.8069
+160101;Iquitos;Maynas;Loreto;-3.7497;-73.2619
+160102;Alto Nanay;Maynas;Loreto;-3.8869;-73.7003
+160103;Fernando Lores;Maynas;Loreto;-4.0064;-73.1525
+160104;Indiana;Maynas;Loreto;-3.4983;-73.0444
+160105;Las Amazonas;Maynas;Loreto;-3.4136;-72.7689
+160106;Mazan;Maynas;Loreto;-3.4978;-73.1142
+160107;Napo;Maynas;Loreto;-2.4936;-73.6806
+160108;Punchana;Maynas;Loreto;-3.7289;-73.2447
+160110;Torres Causana;Maynas;Loreto;-0.9642;-75.1814
+160112;Belen;Maynas;Loreto;-3.7644;-73.2444
+160113;San Juan Bautista;Maynas;Loreto;-3.7742;-73.2864
+160201;Yurimaguas;Alto Amazonas;Loreto;-5.8944;-76.1094
+160202;Balsapuerto;Alto Amazonas;Loreto;-5.8314;-76.5597
+160205;Jeberos;Alto Amazonas;Loreto;-5.2939;-76.2836
+160206;Lagunas;Alto Amazonas;Loreto;-5.23;-75.6775
+160210;Santa Cruz;Alto Amazonas;Loreto;-5.5125;-75.8572
+160211;Teniente Cesar Lopez Rojas;Alto Amazonas;Loreto;-6.0272;-75.8742
+160301;Nauta;Loreto;Loreto;-4.4567;-73.5261
+160302;Parinari;Loreto;Loreto;-4.56;-74.4844
+160303;Tigre;Loreto;Loreto;-3.5503;-74.6903
+160304;Trompeteros;Loreto;Loreto;-3.8028;-75.0597
+160305;Urarinas;Loreto;Loreto;-4.5333;-74.7597
+160401;Ramon Castilla;Mariscal Ramon Castilla;Loreto;-3.9078;-70.5178
+160402;Pebas;Mariscal Ramon Castilla;Loreto;-3.3192;-71.8631
+160403;Yavari;Mariscal Ramon Castilla;Loreto;-4.3567;-70.0408
+160404;San Pablo;Mariscal Ramon Castilla;Loreto;-4.0164;-71.1022
+160501;Requena;Requena;Loreto;-5.0589;-73.8525
+160502;Alto Tapiche;Requena;Loreto;-6.0256;-74.0908
+160503;Capelo;Requena;Loreto;-5.4072;-74.1592
+160504;Emilio San Martin;Requena;Loreto;-5.7936;-74.2864
+160505;Maquia;Requena;Loreto;-5.7892;-74.5503
+160506;Puinahua;Requena;Loreto;-5.2533;-74.3433
+160507;Saquena;Requena;Loreto;-4.7261;-73.5333
+160508;Soplin;Requena;Loreto;-6.005;-73.6911
+160509;Tapiche;Requena;Loreto;-5.6644;-74.1886
+160510;Jenaro Herrera;Requena;Loreto;-4.9053;-73.6728
+160511;Yaquerana;Requena;Loreto;-5.1494;-72.8761
+160601;Contamana;Ucayali;Loreto;-7.325;-75.0414
+160602;Inahuaya;Ucayali;Loreto;-7.1164;-75.2667
+160603;Padre Marquez;Ucayali;Loreto;-7.9444;-74.8403
+160604;Pampa Hermosa;Ucayali;Loreto;-7.195;-75.2969
+160605;Sarayacu;Ucayali;Loreto;-6.3958;-75.1178
+160606;Vargas Guerra;Ucayali;Loreto;-6.9094;-75.1594
+160701;Barranca;Datem del Marañon;Loreto;-4.8219;-76.5642
+160702;Cahuapanas;Datem del Marañon;Loreto;-5.2711;-76.9858
+160703;Manseriche;Datem del Marañon;Loreto;-4.565;-77.4183
+160704;Morona;Datem del Marañon;Loreto;-4.3247;-77.2147
+160705;Pastaza;Datem del Marañon;Loreto;-4.6442;-76.5981
+160706;Andoas;Datem del Marañon;Loreto;-3.475;-76.4344
+160801;Putumayo;Maynas;Loreto;-2.4497;-72.6556
+160802;Rosa Panduro;Maynas;Loreto;-1.7964;-73.4078
+160803;Teniente Manuel Clavero;Maynas;Loreto;-0.3783;-74.6753
+160804;Yaguas;Maynas;Loreto;-2.4114;-71.1836
+170101;Tambopata;Tambopata;Madre de Dios;-12.5972;-69.1875
+170102;Inambari;Tambopata;Madre de Dios;-13.1;-70.3678
+170103;Las Piedras;Tambopata;Madre de Dios;-12.2781;-69.1536
+170104;Laberinto;Tambopata;Madre de Dios;-12.7172;-69.59
+170201;Manu;Manu;Madre de Dios;-12.8381;-71.3633
+170202;Fitzcarrald;Manu;Madre de Dios;-12.2678;-70.9336
+170203;Madre de Dios;Manu;Madre de Dios;-12.6181;-70.3936
+170204;Huepetuhe;Manu;Madre de Dios;-12.9975;-70.5336
+170301;Iñapari;Tahuamanu;Madre de Dios;-10.9544;-69.5814
+170302;Iberia;Tahuamanu;Madre de Dios;-11.4072;-69.4889
+170303;Tahuamanu;Tahuamanu;Madre de Dios;-11.455;-69.3214
+180101;Moquegua;Mariscal Nieto;Moquegua;-17.195;-70.9369
+180102;Carumas;Mariscal Nieto;Moquegua;-16.8106;-70.6953
+180103;Cuchumbaya;Mariscal Nieto;Moquegua;-16.7525;-70.6878
+180104;Samegua;Mariscal Nieto;Moquegua;-17.1797;-70.9008
+180105;San Cristobal;Mariscal Nieto;Moquegua;-16.7406;-70.6831
+180106;Torata;Mariscal Nieto;Moquegua;-17.0767;-70.8442
+180201;Omate;General Sanchez Cerr;Moquegua;-16.6739;-70.9719
+180202;Chojata;General Sanchez Cerr;Moquegua;-16.3894;-70.7286
+180203;Coalaque;General Sanchez Cerr;Moquegua;-16.6486;-71.0239
+180204;Ichuña;General Sanchez Cerr;Moquegua;-16.1411;-70.5392
+180205;La Capilla;General Sanchez Cerr;Moquegua;-16.7581;-71.1767
+180206;Lloque;General Sanchez Cerr;Moquegua;-16.3239;-70.7381
+180207;Matalaque;General Sanchez Cerr;Moquegua;-16.4819;-70.8278
+180208;Puquina;General Sanchez Cerr;Moquegua;-16.6211;-71.1842
+180209;Quinistaquillas;General Sanchez Cerr;Moquegua;-16.7486;-70.8808
+180210;Ubinas;General Sanchez Cerr;Moquegua;-16.3856;-70.8581
+180211;Yunga;General Sanchez Cerr;Moquegua;-16.1964;-70.6814
+180301;Ilo;Ilo;Moquegua;-17.6444;-71.345
+180302;El Algarrobal;Ilo;Moquegua;-17.6228;-71.2703
+180303;Pacocha;Ilo;Moquegua;-17.6161;-71.34
+190101;Chaupimarca;Pasco;Pasco;-10.6828;-76.2556
+190102;Huachon;Pasco;Pasco;-10.6378;-75.9522
+190103;Huariaca;Pasco;Pasco;-10.4428;-76.1889
+190104;Huayllay;Pasco;Pasco;-11.0044;-76.3681
+190105;Ninacaca;Pasco;Pasco;-10.8617;-76.1131
+190106;Pallanchacra;Pasco;Pasco;-10.4147;-76.2356
+190107;Paucartambo;Pasco;Pasco;-10.7731;-75.8128
+190108;San Francisco de Asis de Yarusyacan;Pasco;Pasco;-10.4914;-76.1964
+190109;Simon Bolivar;Pasco;Pasco;-10.6897;-76.3175
+190110;Ticlacayan;Pasco;Pasco;-10.5344;-76.1625
+190111;Tinyahuarco;Pasco;Pasco;-10.7689;-76.2733
+190112;Vicco;Pasco;Pasco;-10.8414;-76.2375
+190113;Yanacancha;Pasco;Pasco;-10.6689;-76.2556
+190201;Yanahuanca;Daniel Alcides Carri;Pasco;-10.4925;-76.5169
+190202;Chacayan;Daniel Alcides Carri;Pasco;-10.435;-76.4383
+190203;Goyllarisquizga;Daniel Alcides Carri;Pasco;-10.4733;-76.4078
+190204;Paucar;Daniel Alcides Carri;Pasco;-10.3697;-76.445
+190205;San Pedro de Pillao;Daniel Alcides Carri;Pasco;-10.4392;-76.4972
+190206;Santa Ana de Tusi;Daniel Alcides Carri;Pasco;-10.4719;-76.3547
+190207;Tapuc;Daniel Alcides Carri;Pasco;-10.4558;-76.4617
+190208;Vilcabamba;Daniel Alcides Carri;Pasco;-10.4789;-76.4492
+190301;Oxapampa;Oxapampa;Pasco;-10.5728;-75.4039
+190302;Chontabamba;Oxapampa;Pasco;-10.6044;-75.4633
+190303;Huancabamba;Oxapampa;Pasco;-10.4261;-75.5131
+190304;Palcazu;Oxapampa;Pasco;-10.1878;-75.1458
+190305;Pozuzo;Oxapampa;Pasco;-10.0653;-75.5569
+190306;Puerto Bermudez;Oxapampa;Pasco;-10.2964;-74.9358
+190307;Villa Rica;Oxapampa;Pasco;-10.7364;-75.2722
+190308;Constitución;Oxapampa;Pasco;-9.8458;-74.9986
+200101;Piura;Piura;Piura;-5.1942;-80.6289
+200104;Castilla;Piura;Piura;-5.2006;-80.6211
+200105;Catacaos;Piura;Piura;-5.2697;-80.6764
+200107;Cura Mori;Piura;Piura;-5.325;-80.6656
+200108;El Tallan;Piura;Piura;-5.4128;-80.68
+200109;La Arena;Piura;Piura;-5.3464;-80.7108
+200110;La Union;Piura;Piura;-5.4031;-80.7433
+200111;Las Lomas;Piura;Piura;-4.6578;-80.2442
+200114;Tambo Grande;Piura;Piura;-4.9331;-80.3414
+200115;26 de Octubre;Piura;Piura;-5.1847;-80.6703
+200201;Ayabaca;Ayabaca;Piura;-4.6392;-79.7161
+200202;Frias;Ayabaca;Piura;-4.9342;-79.9431
+200203;Jilili;Ayabaca;Piura;-4.5839;-79.7989
+200204;Lagunas;Ayabaca;Piura;-4.79;-79.8456
+200205;Montero;Ayabaca;Piura;-4.6303;-79.8275
+200206;Pacaipampa;Ayabaca;Piura;-4.9953;-79.67
+200207;Paimas;Ayabaca;Piura;-4.6269;-79.9453
+200208;Sapillica;Ayabaca;Piura;-4.7786;-79.9831
+200209;Sicchez;Ayabaca;Piura;-4.5703;-79.765
+200210;Suyo;Ayabaca;Piura;-4.5139;-80.0031
+200301;Huancabamba;Huancabamba;Piura;-5.2394;-79.4508
+200302;Canchaque;Huancabamba;Piura;-5.3758;-79.6097
+200303;El Carmen de La Frontera;Huancabamba;Piura;-5.1481;-79.4347
+200304;Huarmaca;Huancabamba;Piura;-5.5683;-79.5247
+200305;Lalaquiz;Huancabamba;Piura;-5.2128;-79.6783
+200306;San Miguel de El Faique;Huancabamba;Piura;-5.4022;-79.6053
+200307;Sondor;Huancabamba;Piura;-5.315;-79.4106
+200308;Sondorillo;Huancabamba;Piura;-5.3394;-79.43
+200401;Chulucanas;Morropon;Piura;-5.0969;-80.1642
+200402;Buenos Aires;Morropon;Piura;-5.2678;-79.9708
+200403;Chalaco;Morropon;Piura;-5.0417;-79.7958
+200404;La Matanza;Morropon;Piura;-5.2114;-80.0906
+200405;Morropon;Morropon;Piura;-5.1861;-79.9717
+200406;Salitral;Morropon;Piura;-5.3419;-79.8319
+200407;San Juan de Bigote;Morropon;Piura;-5.3189;-79.7875
+200408;Santa Catalina de Mossa;Morropon;Piura;-5.1031;-79.8872
+200409;Santo Domingo;Morropon;Piura;-5.0292;-79.8756
+200410;Yamango;Morropon;Piura;-5.1814;-79.7528
+200501;Paita;Paita;Piura;-5.0883;-81.1164
+200502;Amotape;Paita;Piura;-4.8822;-81.0178
+200503;Arenal;Paita;Piura;-4.8842;-81.0269
+200504;Colan;Paita;Piura;-4.9092;-81.0572
+200505;La Huaca;Paita;Piura;-4.9117;-80.9608
+200506;Tamarindo;Paita;Piura;-4.8792;-80.9739
+200507;Vichayal;Paita;Piura;-4.8653;-81.0719
+200601;Sullana;Sullana;Piura;-4.9044;-80.7047
+200602;Bellavista;Sullana;Piura;-4.8908;-80.6808
+200603;Ignacio Escudero;Sullana;Piura;-4.8458;-80.8747
+200604;Lancones;Sullana;Piura;-4.5767;-80.4778
+200605;Marcavelica;Sullana;Piura;-4.8814;-80.7061
+200606;Miguel Checa;Sullana;Piura;-4.9025;-80.8169
+200607;Querecotillo;Sullana;Piura;-4.84;-80.6519
+200608;Salitral;Sullana;Piura;-4.8583;-80.6794
+200701;Pariñas;Talara;Piura;-4.5811;-81.2747
+200702;El Alto;Talara;Piura;-4.2697;-81.2239
+200703;La Brea;Talara;Piura;-4.6564;-81.3069
+200704;Lobitos;Talara;Piura;-4.4531;-81.2783
+200705;Los Organos;Talara;Piura;-4.1789;-81.1322
+200706;Mancora;Talara;Piura;-4.1083;-81.0556
+200801;Sechura;Sechura;Piura;-5.5567;-80.8217
+200802;Bellavista de La Union;Sechura;Piura;-5.4394;-80.7547
+200803;Bernal;Sechura;Piura;-5.4608;-80.7422
+200804;Cristo Nos Valga;Sechura;Piura;-5.4939;-80.7414
+200805;Vice;Sechura;Piura;-5.4231;-80.7767
+200806;Rinconada Llicuar;Sechura;Piura;-5.4572;-80.7614
+210101;Puno;Puno;Puno;-15.8406;-70.0278
+210102;Acora;Puno;Puno;-15.9736;-69.7978
+210103;Amantani;Puno;Puno;-15.6572;-69.7194
+210104;Atuncolla;Puno;Puno;-15.6878;-70.1436
+210105;Capachica;Puno;Puno;-15.6431;-69.8303
+210106;Chucuito;Puno;Puno;-15.8947;-69.8922
+210107;Coata;Puno;Puno;-15.5711;-69.9503
+210108;Huata;Puno;Puno;-15.6144;-69.9722
+210109;Mañazo;Puno;Puno;-15.7992;-70.3458
+210110;Paucarcolla;Puno;Puno;-15.7461;-70.0556
+210111;Pichacani;Puno;Puno;-16.1508;-70.0642
+210112;Plateria;Puno;Puno;-15.9475;-69.8356
+210113;San Antonio;Puno;Puno;-16.1414;-70.3458
+210114;Tiquillaca;Puno;Puno;-15.7978;-70.1872
+210115;Vilque;Puno;Puno;-15.7661;-70.2594
+210201;Azangaro;Azangaro;Puno;-14.9083;-70.1969
+210202;Achaya;Azangaro;Puno;-15.2847;-70.1608
+210203;Arapa;Azangaro;Puno;-15.1411;-70.1117
+210204;Asillo;Azangaro;Puno;-14.7864;-70.3544
+210205;Caminaca;Azangaro;Puno;-15.3239;-70.0747
+210206;Chupa;Azangaro;Puno;-15.1069;-69.9861
+210207;Jose Domingo Choquehuanca;Azangaro;Puno;-15.0336;-70.3381
+210208;Muñani;Azangaro;Puno;-14.7689;-69.9528
+210209;Potoni;Azangaro;Puno;-14.3944;-70.1136
+210210;Saman;Azangaro;Puno;-15.2917;-70.0169
+210211;San Anton;Azangaro;Puno;-14.5922;-70.3125
+210212;San Jose;Azangaro;Puno;-14.6817;-70.1606
+210213;San Juan de Salinas;Azangaro;Puno;-14.9911;-70.1056
+210214;Santiago de Pupuja;Azangaro;Puno;-15.0547;-70.2792
+210215;Tirapata;Azangaro;Puno;-14.9544;-70.4028
+210301;Macusani;Carabaya;Puno;-14.0686;-70.4308
+210302;Ajoyani;Carabaya;Puno;-14.2294;-70.2264
+210303;Ayapata;Carabaya;Puno;-13.7781;-70.325
+210304;Coasa;Carabaya;Puno;-13.9853;-70.0197
+210305;Corani;Carabaya;Puno;-13.8686;-70.6042
+210306;Crucero;Carabaya;Puno;-14.3619;-70.025
+210307;Ituata;Carabaya;Puno;-13.8761;-70.2178
+210308;Ollachea;Carabaya;Puno;-13.7944;-70.4756
+210309;San Gaban;Carabaya;Puno;-13.4333;-70.3889
+210310;Usicayos;Carabaya;Puno;-14.1256;-69.9672
+210401;Juli;Chucuito;Puno;-16.215;-69.4619
+210402;Desaguadero;Chucuito;Puno;-16.5653;-69.0433
+210403;Huacullani;Chucuito;Puno;-16.6292;-69.325
+210404;Kelluyo;Chucuito;Puno;-16.7208;-69.2492
+210405;Pisacoma;Chucuito;Puno;-16.9092;-69.3736
+210406;Pomata;Chucuito;Puno;-16.2728;-69.2933
+210407;Zepita;Chucuito;Puno;-16.4964;-69.105
+210501;Ilave;El Collao;Puno;-16.0867;-69.6386
+210502;Capazo;El Collao;Puno;-17.1828;-69.7439
+210503;Pilcuyo;El Collao;Puno;-16.11;-69.5547
+210504;Santa Rosa;El Collao;Puno;-16.7414;-69.7175
+210505;Conduriri;El Collao;Puno;-16.6156;-69.7025
+210601;Huancane;Huancane;Puno;-15.2017;-69.7614
+210602;Cojata;Huancane;Puno;-15.0161;-69.3647
+210603;Huatasani;Huancane;Puno;-15.0589;-69.8042
+210604;Inchupalla;Huancane;Puno;-15.0089;-69.6822
+210605;Pusi;Huancane;Puno;-15.4419;-69.9294
+210606;Rosaspata;Huancane;Puno;-15.2347;-69.5303
+210607;Taraco;Huancane;Puno;-15.2978;-69.9792
+210608;Vilque Chico;Huancane;Puno;-15.2144;-69.6886
+210701;Lampa;Lampa;Puno;-15.3636;-70.3653
+210702;Cabanilla;Lampa;Puno;-15.6194;-70.3489
+210703;Calapuja;Lampa;Puno;-15.31;-70.2217
+210704;Nicasio;Lampa;Puno;-15.2361;-70.2622
+210705;Ocuviri;Lampa;Puno;-15.1128;-70.9117
+210706;Palca;Lampa;Puno;-15.235;-70.5992
+210707;Paratia;Lampa;Puno;-15.4539;-70.6008
+210708;Pucara;Lampa;Puno;-15.0419;-70.3689
+210709;Santa Lucia;Lampa;Puno;-15.6986;-70.6061
+210710;Vilavila;Lampa;Puno;-15.1883;-70.6606
+210801;Ayaviri;Melgar;Puno;-14.8811;-70.5897
+210802;Antauta;Melgar;Puno;-14.3;-70.295
+210803;Cupi;Melgar;Puno;-14.9058;-70.8683
+210804;Llalli;Melgar;Puno;-14.9339;-70.8792
+210805;Macari;Melgar;Puno;-14.7706;-70.9033
+210806;Nuñoa;Melgar;Puno;-14.4767;-70.6372
+210807;Orurillo;Melgar;Puno;-14.7261;-70.5133
+210808;Santa Rosa;Melgar;Puno;-14.6072;-70.7872
+210809;Umachiri;Melgar;Puno;-14.8497;-70.7494
+210901;Moho;Moho;Puno;-15.36;-69.5
+210902;Conima;Moho;Puno;-15.4572;-69.4375
+210903;Huayrapata;Moho;Puno;-15.3211;-69.3494
+210904;Tilali;Moho;Puno;-15.5192;-69.3456
+211001;Putina;San Antonio de Putin;Puno;-14.9003;-69.8619
+211002;Ananea;San Antonio de Putin;Puno;-14.6786;-69.5333
+211003;Pedro Vilca Apaza;San Antonio de Putin;Puno;-15.0592;-69.8897
+211004;Quilcapuncu;San Antonio de Putin;Puno;-14.8964;-69.7344
+211005;Sina;San Antonio de Putin;Puno;-14.49;-69.2817
+211101;Juliaca;San Roman;Puno;-15.4939;-70.1356
+211102;Cabana;San Roman;Puno;-15.65;-70.3211
+211103;Cabanillas;San Roman;Puno;-15.6425;-70.3503
+211104;Caracoto;San Roman;Puno;-15.5683;-70.1022
+211105;San Miguel;San Roman;Puno;-15.4097;-70.0958
+211201;Sandia;Sandia;Puno;-14.3231;-69.4667
+211202;Cuyocuyo;Sandia;Puno;-14.4717;-69.54
+211203;Limbani;Sandia;Puno;-14.1458;-69.6897
+211204;Patambuco;Sandia;Puno;-14.3594;-69.6222
+211205;Phara;Sandia;Puno;-14.1511;-69.6642
+211206;Quiaca;Sandia;Puno;-14.4253;-69.3417
+211207;San Juan del Oro;Sandia;Puno;-14.2211;-69.1528
+211208;Yanahuaya;Sandia;Puno;-14.2822;-69.1844
+211209;Alto Inambari;Sandia;Puno;-14.0897;-69.2442
+211210;San Pedro de Putina Punco;Sandia;Puno;-14.1119;-69.0467
+211301;Yunguyo;Yunguyo;Puno;-16.2469;-69.095
+211302;Anapia;Yunguyo;Puno;-16.3133;-68.8539
+211303;Copani;Yunguyo;Puno;-16.3989;-69.0439
+211304;Cuturapi;Yunguyo;Puno;-16.2706;-69.1781
+211305;Ollaraya;Yunguyo;Puno;-16.2308;-68.9981
+211306;Tinicachi;Yunguyo;Puno;-16.1967;-68.9603
+211307;Unicachi;Yunguyo;Puno;-16.2239;-68.9761
+220101;Moyobamba;Moyobamba;San Martin;-6.0283;-76.9719
+220102;Calzada;Moyobamba;San Martin;-6.0319;-77.0675
+220103;Habana;Moyobamba;San Martin;-6.0808;-77.0928
+220104;Jepelacio;Moyobamba;San Martin;-6.1081;-76.9161
+220105;Soritor;Moyobamba;San Martin;-6.1408;-77.105
+220106;Yantalo;Moyobamba;San Martin;-5.9747;-77.0225
+220201;Bellavista;Bellavista;San Martin;-7.0653;-76.5883
+220202;Alto Biavo;Bellavista;San Martin;-7.2936;-76.4544
+220203;Bajo Biavo;Bellavista;San Martin;-7.1011;-76.4867
+220204;Huallaga;Bellavista;San Martin;-7.1292;-76.6489
+220205;San Pablo;Bellavista;San Martin;-6.8081;-76.5731
+220206;San Rafael;Bellavista;San Martin;-7.0308;-76.4764
+220301;San Jose de Sisa;El Dorado;San Martin;-6.6136;-76.6931
+220302;Agua Blanca;El Dorado;San Martin;-6.7289;-76.6975
+220303;San Martin;El Dorado;San Martin;-6.5147;-76.7425
+220304;Santa Rosa;El Dorado;San Martin;-6.7456;-76.6264
+220305;Shatoja;El Dorado;San Martin;-6.5283;-76.7211
+220401;Saposoa;Huallaga;San Martin;-6.9339;-76.7733
+220402;Alto Saposoa;Huallaga;San Martin;-6.7658;-76.8139
+220403;El Eslabon;Huallaga;San Martin;-7.0031;-76.7436
+220404;Piscoyacu;Huallaga;San Martin;-6.9831;-76.7647
+220405;Sacanche;Huallaga;San Martin;-7.07;-76.7136
+220406;Tingo de Saposoa;Huallaga;San Martin;-7.0936;-76.6417
+220501;Lamas;Lamas;San Martin;-6.4217;-76.5211
+220502;Alonso de Alvarado;Lamas;San Martin;-6.35;-76.77
+220503;Barranquita;Lamas;San Martin;-6.2517;-76.0331
+220504;Caynarachi;Lamas;San Martin;-6.3306;-76.2836
+220505;Cuñumbuqui;Lamas;San Martin;-6.5089;-76.4803
+220506;Pinto Recodo;Lamas;San Martin;-6.3794;-76.6033
+220507;Rumisapa;Lamas;San Martin;-6.4486;-76.4722
+220508;San Roque de Cumbaza;Lamas;San Martin;-6.3864;-76.4419
+220509;Shanao;Lamas;San Martin;-6.41;-76.5939
+220510;Tabalosos;Lamas;San Martin;-6.3856;-76.6333
+220511;Zapatero;Lamas;San Martin;-6.5308;-76.4911
+220601;Juanjui;Mariscal Caceres;San Martin;-7.1819;-76.7317
+220602;Campanilla;Mariscal Caceres;San Martin;-7.4814;-76.6528
+220603;Huicungo;Mariscal Caceres;San Martin;-7.3272;-76.7783
+220604;Pachiza;Mariscal Caceres;San Martin;-7.2975;-76.7739
+220605;Pajarillo;Mariscal Caceres;San Martin;-7.1789;-76.6881
+220701;Picota;Picota;San Martin;-6.9194;-76.3317
+220702;Buenos Aires;Picota;San Martin;-6.7939;-76.3269
+220703;Caspisapa;Picota;San Martin;-6.9589;-76.4189
+220704;Pilluana;Picota;San Martin;-6.7781;-76.2931
+220705;Pucacaca;Picota;San Martin;-6.8506;-76.3417
+220706;San Cristobal;Picota;San Martin;-6.9925;-76.4186
+220707;San Hilarion;Picota;San Martin;-7.0022;-76.4428
+220708;Shamboyacu;Picota;San Martin;-7.0425;-76.1119
+220709;Tingo de Ponasa;Picota;San Martin;-6.9356;-76.2511
+220710;Tres Unidos;Picota;San Martin;-6.8064;-76.2311
+220801;Rioja;Rioja;San Martin;-6.0589;-77.1669
+220802;Awajun;Rioja;San Martin;-5.8139;-77.3822
+220803;Elias Soplin Vargas;Rioja;San Martin;-5.9908;-77.2781
+220804;Nueva Cajamarca;Rioja;San Martin;-5.94;-77.3083
+220805;Pardo Miguel;Rioja;San Martin;-5.7381;-77.5025
+220806;Posic;Rioja;San Martin;-6.0139;-77.1636
+220807;San Fernando;Rioja;San Martin;-5.9019;-77.27
+220808;Yorongos;Rioja;San Martin;-6.1356;-77.1447
+220809;Yuracyacu;Rioja;San Martin;-5.9278;-77.2269
+220901;Tarapoto;San Martin;San Martin;-6.4969;-76.3664
+220902;Alberto Leveau;San Martin;San Martin;-6.6633;-76.2878
+220903;Cacatachi;San Martin;San Martin;-6.4619;-76.4514
+220904;Chazuta;San Martin;San Martin;-6.5739;-76.0931
+220905;Chipurana;San Martin;San Martin;-6.3539;-75.7411
+220906;El Porvenir;San Martin;San Martin;-6.215;-75.7867
+220907;Huimbayoc;San Martin;San Martin;-6.4167;-75.7658
+220908;Juan Guerra;San Martin;San Martin;-6.5833;-76.3336
+220909;La Banda de Shilcayo;San Martin;San Martin;-6.5033;-76.3514
+220910;Morales;San Martin;San Martin;-6.4797;-76.3828
+220911;Papaplaya;San Martin;San Martin;-6.245;-75.7903
+220912;San Antonio;San Martin;San Martin;-6.42;-76.4044
+220913;Sauce;San Martin;San Martin;-6.6914;-76.2183
+220914;Shapaja;San Martin;San Martin;-6.58;-76.2653
+221001;Tocache;Tocache;San Martin;-8.1883;-76.5153
+221002;Nuevo Progreso;Tocache;San Martin;-8.45;-76.3253
+221003;Polvora;Tocache;San Martin;-7.9075;-76.6706
+221004;Shunte;Tocache;San Martin;-8.35;-76.7231
+221005;Uchiza;Tocache;San Martin;-8.4558;-76.46
+230101;Tacna;Tacna;Tacna;-18.01;-70.2478
+230102;Alto de La Alianza;Tacna;Tacna;-17.9908;-70.2475
+230103;Calana;Tacna;Tacna;-17.9406;-70.1825
+230104;Ciudad Nueva;Tacna;Tacna;-17.985;-70.2378
+230105;Inclan;Tacna;Tacna;-17.795;-70.4919
+230106;Pachia;Tacna;Tacna;-17.8972;-70.1528
+230107;Palca;Tacna;Tacna;-17.7733;-69.9583
+230108;Pocollay;Tacna;Tacna;-17.9964;-70.2197
+230109;Sama;Tacna;Tacna;-17.8586;-70.5731
+230110;Coronel Gregorio Albarracin Lanchipa;Tacna;Tacna;-18.0408;-70.2542
+230111;La Yarada-Los Palos;Tacna;Tacna;-18.2292;-70.4769
+230201;Candarave;Candarave;Tacna;-17.2669;-70.2497
+230202;Cairani;Candarave;Tacna;-17.2861;-70.3628
+230203;Camilaca;Candarave;Tacna;-17.2669;-70.3833
+230204;Curibaya;Candarave;Tacna;-17.3822;-70.3353
+230205;Huanuara;Candarave;Tacna;-17.3133;-70.3217
+230206;Quilahuani;Candarave;Tacna;-17.3175;-70.2583
+230301;Locumba;Jorge Basadre;Tacna;-17.6133;-70.7611
+230302;Ilabaya;Jorge Basadre;Tacna;-17.4214;-70.5122
+230303;Ite;Jorge Basadre;Tacna;-17.8617;-70.965
+230401;Tarata;Tarata;Tacna;-17.4772;-70.0306
+230402;Heroes Albarracin;Tarata;Tacna;-17.4817;-70.1211
+230403;Estique;Tarata;Tacna;-17.5428;-70.0206
+230404;Estique-Pampa;Tarata;Tacna;-17.5372;-70.0344
+230405;Sitajara;Tarata;Tacna;-17.3747;-70.1342
+230406;Susapaya;Tarata;Tacna;-17.3528;-70.1311
+230407;Tarucachi;Tarata;Tacna;-17.5253;-70.0292
+230408;Ticaco;Tarata;Tacna;-17.4506;-70.0456
+240101;Tumbes;Tumbes;Tumbes;-3.5647;-80.4536
+240102;Corrales;Tumbes;Tumbes;-3.6022;-80.4797
+240103;La Cruz;Tumbes;Tumbes;-3.6378;-80.5925
+240104;Pampas de Hospital;Tumbes;Tumbes;-3.6956;-80.4358
+240105;San Jacinto;Tumbes;Tumbes;-3.6431;-80.4511
+240106;San Juan de La Virgen;Tumbes;Tumbes;-3.6275;-80.4336
+240201;Zorritos;Contralmirante Villa;Tumbes;-3.6806;-80.6783
+240202;Casitas;Contralmirante Villa;Tumbes;-3.9406;-80.6519
+240203;Canoas de Punta Sal;Contralmirante Villa;Tumbes;-3.9467;-80.9428
+240301;Zarumilla;Zarumilla;Tumbes;-3.5011;-80.275
+240302;Aguas Verdes;Zarumilla;Tumbes;-3.4814;-80.2461
+240303;Matapalo;Zarumilla;Tumbes;-3.6839;-80.1997
+240304;Papayal;Zarumilla;Tumbes;-3.5736;-80.2333
+250101;Calleria;Coronel Portillo;Ucayali;-8.3828;-74.5322
+250102;Campoverde;Coronel Portillo;Ucayali;-8.4761;-74.8072
+250103;Iparia;Coronel Portillo;Ucayali;-9.3064;-74.4378
+250104;Masisea;Coronel Portillo;Ucayali;-8.6025;-74.3097
+250105;Yarinacocha;Coronel Portillo;Ucayali;-8.355;-74.5769
+250106;Nueva Requena;Coronel Portillo;Ucayali;-8.3061;-74.8653
+250107;Manantay;Coronel Portillo;Ucayali;-8.3981;-74.5378
+250201;Raymondi;Atalaya;Ucayali;-10.7278;-73.7592
+250202;Sepahua;Atalaya;Ucayali;-11.1464;-73.0475
+250203;Tahuania;Atalaya;Ucayali;-10.1033;-73.9808
+250204;Yurua;Atalaya;Ucayali;-9.5281;-72.7622
+250301;Padre Abad;Padre Abad;Ucayali;-9.0375;-75.5128
+250302;Irazola;Padre Abad;Ucayali;-8.8289;-75.2139
+250303;Curimana;Padre Abad;Ucayali;-8.4353;-75.1597
+250304;Neshuya;Padre Abad;Ucayali;-8.6392;-74.9644
+250305;Alexander von Humboldt;Padre Abad;Ucayali;-8.8264;-75.0522
+250401;Purus;Purus;Ucayali;-9.7703;-70.7122

@@ -5,6 +5,11 @@
 # Ignorar las carpetas venv en cada microservicio.
 */venv/
 
+# Ignorar las carpetas de Node
+*/node_modules
+npm-debug.log
+yarn-error.log
+
 # Otros archivos.
 __pycache__/
 

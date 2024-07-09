@@ -57,6 +57,12 @@ CREATE TABLE IF NOT EXISTS public.ubigeo
     CONSTRAINT ubigeo_pkey PRIMARY KEY (id_ubigeo)
 );
 
+-- Load data from CSV
+COPY public.ubigeo (id_ubigeo, distrito, provincia, departamento, latitud, longitud)
+FROM '/docker-entrypoint-initdb.d/ubigeo.csv'
+DELIMITER ';'
+CSV HEADER;
+
 ALTER TABLE IF EXISTS public.usuarios
     ADD CONSTRAINT fk_ubigeo FOREIGN KEY (id_ubigeo)
     REFERENCES public.ubigeo (id_ubigeo) MATCH SIMPLE

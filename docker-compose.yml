@@ -10,6 +10,7 @@ services:
     volumes:
       - usuarios_db_data:/var/lib/postgresql/data
       - ./db/usuarios/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./db/usuarios/ubigeo.csv:/docker-entrypoint-initdb.d/ubigeo.csv
     ports:
       - "5450:5432"
     env_file:
