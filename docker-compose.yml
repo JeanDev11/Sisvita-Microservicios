@@ -28,31 +28,31 @@ services:
     env_file:
       - .env
 
-  # diagnosticos_db:
-  #   image: postgres
-  #   environment:
-  #     POSTGRES_DB: ${DIAGNOSTICOS_DB}
-  #     POSTGRES_USER: ${DIAGNOSTICOS_USER}
-  #     POSTGRES_PASSWORD: ${DIAGNOSTICOS_PASSWORD}
-  #   volumes:
-  #     - diagnosticos_db_data:/var/lib/postgresql/data
-  #     - ./db/diagnosticos/init.sql:/docker-entrypoint-initdb.d/init.sql
-  #   ports:
-  #     - "5451:5432"
-  #   env_file:
-  #     - .env
+  diagnosticos_db:
+    image: postgres
+    environment:
+      POSTGRES_DB: ${DIAGNOSTICOS_DB}
+      POSTGRES_USER: ${DIAGNOSTICOS_USER}
+      POSTGRES_PASSWORD: ${DIAGNOSTICOS_PASSWORD}
+    volumes:
+      - diagnosticos_db_data:/var/lib/postgresql/data
+      - ./db/diagnosticos/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5451:5432"
+    env_file:
+      - .env
 
-  # diagnosticos_service:
-  #   build:
-  #     context: ./diagnosticos_service
-  #   environment:
-  #     - DATABASE_URI=postgresql://${DIAGNOSTICOS_USER}:${DIAGNOSTICOS_PASSWORD}@diagnosticos_db:5432/${DIAGNOSTICOS_DB}
-  #   depends_on:
-  #     - diagnosticos_db
-  #   ports:
-  #     - "${DIAGNOSTICOS_SERVICE_PORT}:5000"
-  #   env_file:
-  #     - .env
+  diagnosticos_service:
+    build:
+      context: ./diagnosticos_service
+    environment:
+      - DATABASE_URI=postgresql://${DIAGNOSTICOS_USER}:${DIAGNOSTICOS_PASSWORD}@diagnosticos_db:5432/${DIAGNOSTICOS_DB}
+    depends_on:
+      - diagnosticos_db
+    ports:
+      - "${DIAGNOSTICOS_SERVICE_PORT}:5000"
+    env_file:
+      - .env
 
   # tests_db:
   #   image: postgres
