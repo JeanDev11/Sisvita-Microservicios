@@ -82,5 +82,5 @@ services:
 
 volumes:
   usuarios_db_data:
-  # diagnosticos_db_data:
+  diagnosticos_db_data:
   # tests_db_data:
