@@ -1,60 +1,58 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, jsonify
 from app.models.test import Test
-from app.extensions import db
+from app.models.test_pregunta import TestPregunta
+from app.models.test_alternativa import TestAlternativa
 
-tests_bp = Blueprint('tests', __name__)
+test_bp = Blueprint('test_bp', __name__)
 
-@tests_bp.route('/tests', methods=['POST'])
-def create_test():
-    result = {}
-    try:
-    
-        data = request.get_json()
-        descripcion = data.get('descripcion')
-        rango_puntuacion = data.get('rango_puntuacion')
-        titulo = data.get('titulo')
+@test_bp.route('/tests', methods=['GET'])
+def get_tests():
+    tests = Test.query.all()
+    result = []
+    for test in tests:
+        result.append({
+            'test_id': test.test_id,
+            'titulo': test.titulo,
+            'descripcion': test.descripcion,
+            'rango_puntuacion': test.rango_puntuacion
+        })
+    return jsonify(result)
 
-        nuevo_test = Test(descripcion=descripcion, rango_puntuacion=rango_puntuacion, titulo=titulo)
-
-        db.session.add(nuevo_test)
-        db.session.commit()
-
-        result["status_code"] = 201
-        result["msg"] = "Test creado correctamente"
-        result["data"] = {
-            "test_id": nuevo_test.test_id,
-            "descripcion": nuevo_test.descripcion,
-            "rango_puntuacion": nuevo_test.rango_puntuacion,
-            "titulo": nuevo_test.titulo
-        }
-        return jsonify(result), 201
-
-    except Exception as e:
-        db.session.rollback()
-        result["status_code"] = 500
-        result["msg"] = f"Error al crear el test: {str(e)}"
-        return jsonify(result), 500
-
-@tests_bp.route('/tests/<int:test_id>', methods=['GET'])
+@test_bp.route('/tests/<int:test_id>', methods=['GET'])
 def get_test(test_id):
-    result = {}
-    try:
-        test = Test.query.get(test_id)
-        if not test:
-            result["status_code"] = 404
-            result["msg"] = "Test no encontrado"
-            return jsonify(result), 404
+    test = Test.query.get_or_404(test_id)
 
-        result["status_code"] = 200
-        result["data"] = {
-            "test_id": test.test_id,
-            "descripcion": test.descripcion,
-            "rango_puntuacion": test.rango_puntuacion,
-            "titulo": test.titulo
-        }
-        return jsonify(result), 200
+    result = {
+        'test_id': test.test_id,
+        'titulo': test.titulo,
+        'descripcion': test.descripcion,
+        'rango_puntuacion': test.rango_puntuacion
+    }
+    
+    return jsonify(result)
 
-    except Exception as e:
-        result["status_code"] = 500
-        result["msg"] = f"Error al obtener el test: {str(e)}"
-        return jsonify(result), 500
+@test_bp.route('/tests/<int:test_id>/preguntas', methods=['GET'])
+def get_preguntas(test_id):
+    preguntas = TestPregunta.query.filter_by(test_id=test_id).all()
+    result = []
+    for pregunta in preguntas:
+        result.append({
+            'pregunta_id': pregunta.pregunta_id,
+            'test_id': pregunta.test_id,
+            'texto_pregunta': pregunta.texto_pregunta,
+            'orden': pregunta.orden
+        })
+    return jsonify(result)
+
+@test_bp.route('/preguntas/<int:pregunta_id>/alternativas', methods=['GET'])
+def get_alternativas(pregunta_id):
+    alternativas = TestAlternativa.query.filter_by(pregunta_id=pregunta_id).all()
+    result = []
+    for alternativa in alternativas:
+        result.append({
+            'alternativa_id': alternativa.alternativa_id,
+            'pregunta_id': alternativa.pregunta_id,
+            'alternativa': alternativa.alternativa,
+            'puntaje': alternativa.puntaje
+        })
+    return jsonify(result)

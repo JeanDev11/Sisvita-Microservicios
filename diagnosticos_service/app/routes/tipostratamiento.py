@@ -1,18 +1,18 @@
-from flask import Blueprint, jsonify
-from app.models.tipostratamiento import TiposTratamiento
+from flask import Blueprint, request, jsonify
+from models.tipostratamiento import TiposTratamiento
 
 tipostratamiento_bp = Blueprint('tipostratamiento', __name__)
 
 @tipostratamiento_bp.route('/tipostratamiento/getall', methods=['GET'])
-def get_tipos_tratamiento_all():
+def get_tiposTratamientoAll():
     result = {}
     try:
-        tipos_tratamientos = TiposTratamiento.query.all()
+        tiposTratamientos = TiposTratamiento.query.all()
         result = [
             {
                 "id_tipo_tratamiento": tt.id_tipo_tratamiento,
                 "nombre_tratamiento": tt.nombre_tratamiento,
-            } for tt in tipos_tratamientos
+            } for tt in tiposTratamientos
         ]
         return jsonify(result), 200
     except Exception as e:
