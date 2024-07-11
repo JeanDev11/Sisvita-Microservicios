@@ -3,7 +3,7 @@ from flask import Flask
 from flask_cors import CORS
 from app.extensions import db, ma
 from app.routes.diagnostico import diagnostico_bp
-from app.routes.evaluacionpaciente import evaluacion_bp
+from app.routes.evaluacionpaciente import evaluacionpaciente_bp
 from app.routes.tiposdiagnostico import tiposdiagnostico_bp
 from app.routes.tipostratamiento import tipostratamiento_bp
 from app.routes.tratamiento import tratamiento_bp
@@ -22,7 +22,7 @@ ma.init_app(app)
 
 # Cargar todos los blueprints
 app.register_blueprint(diagnostico_bp)
-app.register_blueprint(evaluacion_bp)
+app.register_blueprint(evaluacionpaciente_bp)
 app.register_blueprint(tiposdiagnostico_bp)
 app.register_blueprint(tipostratamiento_bp)
 app.register_blueprint(tratamiento_bp)
