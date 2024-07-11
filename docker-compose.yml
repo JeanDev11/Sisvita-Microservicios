@@ -88,6 +88,14 @@ services:
     env_file:
       - .env
 
+  notifications_service:
+    build:
+      context: ./notifications_service
+    ports:
+      - "${NOTIFICATIONS_SERVICE_PORT}:3000"
+    env_file:
+      - .env
+
 volumes:
   usuarios_db_data:
   diagnosticos_db_data:

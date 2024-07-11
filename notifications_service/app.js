@@ -8,7 +8,7 @@ app.use(express.json());
 
 // Rutas
 const emailRoutes = require('./app/routes/emailRoutes');
-app.use('/api', emailRoutes);
+app.use('/notifi', emailRoutes);
 
 // Puerto
 const PORT = process.env.PORT || 3000;
