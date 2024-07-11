@@ -1,9 +1,9 @@
 import os
 from flask import Flask
 from app.extensions import db, ma
-from app.routes.test_routes import tests_bp
-from app.routes.resultado_routes import resultados_bp
-from app.routes.nivel_routes import niveles_bp
+from app.routes.niveles import nivel_test
+from app.routes.resultado import test_resultado
+from app.routes.test import test_bp
 
 # Inicializar la aplicación Flask
 app = Flask(__name__)
@@ -17,9 +17,9 @@ db.init_app(app)
 ma.init_app(app)
 
 # Registrar blueprints
-app.register_blueprint(tests_bp, url_prefix='/api/tests')
-app.register_blueprint(resultados_bp, url_prefix='/api/resultados')
-app.register_blueprint(niveles_bp, url_prefix='/api/niveles')
+app.register_blueprint(tests_bp)
+app.register_blueprint(resultados_bp)
+app.register_blueprint(niveles_bp)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True, port=5003)
