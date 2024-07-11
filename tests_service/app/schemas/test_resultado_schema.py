@@ -1,6 +1,5 @@
 from app.extensions import ma
 from app.models.test_resultado import TestResultado
-from app.schemas.usuario_schema import UsuarioSchema
 from app.schemas.test_schema import TestSchema
 from app.schemas.nivel_test_schema import NivelTestSchema
 from marshmallow import fields, pre_dump

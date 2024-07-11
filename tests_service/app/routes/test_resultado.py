@@ -1,7 +1,7 @@
 from flask import Blueprint, request, jsonify
 from app.models.test_resultado import TestResultado
 from app.extensions import db
-from schemas.test_resultado_schema import testResultados_schema
+from schemas.test_resultado_schema import TestResultadoSchema
 
 test_resultado = Blueprint('test_resultado', __name__)
 
@@ -48,7 +48,7 @@ def get_test_resultados():
     result = {}
     try:
         resultados = TestResultado.query.all()
-        data = testResultados_schema.dump(resultados)
+        data = TestResultadoSchema.dump(resultados)
         return jsonify(data), 200
     except Exception as e:
         result["status_code"] = 500
