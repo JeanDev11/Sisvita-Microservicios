@@ -1,10 +1,6 @@
 -- usuarios_service/init.sql
 BEGIN;
-
-DROP TABLE IF EXISTS public.usuarios;
-DROP TABLE IF EXISTS public.especialistas;
-DROP TABLE IF EXISTS public.pacientes;
-DROP TABLE IF EXISTS public.ubigeo;
+CREATE EXTENSION IF NOT EXISTS dblink;
 
 CREATE TABLE IF NOT EXISTS public.usuarios
 (

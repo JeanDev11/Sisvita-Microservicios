@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from models.tiposdiagnostico import TiposDiagnostico
+from app.models.tiposdiagnostico import TiposDiagnostico
 
 tiposdiagnostico_bp = Blueprint('tiposdiagnostico', __name__)
 

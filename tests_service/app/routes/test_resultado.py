@@ -1,7 +1,7 @@
 from flask import Blueprint, request, jsonify
 from app.models.test_resultado import TestResultado
 from app.extensions import db
-from schemas.test_resultado_schema import testResultados_schema
+from app.schemas.test_resultado_schema import testResultados_schema
 
 test_resultado = Blueprint('test_resultado', __name__)
 

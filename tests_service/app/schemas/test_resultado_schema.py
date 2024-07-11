@@ -1,13 +1,13 @@
 from app.extensions import ma
 from app.models.test_resultado import TestResultado
-from app.schemas.usuario_schema import UsuarioSchema
+# from app.schemas.usuario_schema import UsuarioSchema
 from app.schemas.test_schema import TestSchema
 from app.schemas.nivel_test_schema import NivelTestSchema
 from marshmallow import fields, pre_dump
 import pytz
 
 class TestResultadoSchema(ma.Schema):
-    usuario__rel = ma.Nested(UsuarioSchema)
+    # usuario__rel = ma.Nested(UsuarioSchema)
     # usuario = ma.Nested(UsuarioSchema(only=("usuario_id", "nombres","apellidos")))
     test__rel = ma.Nested(TestSchema)
     nivel__rel = ma.Nested(NivelTestSchema)

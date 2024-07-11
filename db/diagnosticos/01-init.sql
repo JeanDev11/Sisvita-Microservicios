@@ -1,11 +1,5 @@
--- diagnosticos_service/init.sql
+-- diagnosticos_service/01-init.sql
 BEGIN;
-
-DROP TABLE IF EXISTS public.diagnostico;
-DROP TABLE IF EXISTS public.evaluacionpaciente;
-DROP TABLE IF EXISTS public.tratamiento;
-DROP TABLE IF EXISTS public.tiposdiagnostico;
-DROP TABLE IF EXISTS public.tipostratamiento;
 
 CREATE TABLE IF NOT EXISTS public.diagnostico
 (

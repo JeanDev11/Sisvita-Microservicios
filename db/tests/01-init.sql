@@ -1,11 +1,5 @@
--- tests_service/init.sql
 BEGIN;
-
-DROP TABLE IF EXISTS public.test;
-DROP TABLE IF EXISTS public.test_pregunta;
-DROP TABLE IF EXISTS public.test_alternativa;
-DROP TABLE IF EXISTS public.test_resultado;
-DROP TABLE IF EXISTS public.nivel_test;
+CREATE EXTENSION IF NOT EXISTS dblink;
 
 CREATE TABLE IF NOT EXISTS public.test
 (
@@ -53,7 +47,7 @@ CREATE TABLE IF NOT EXISTS public.nivel_test
     descripcion character varying(255),
     test_id integer,
     semaforo character varying,
-    CONSTRAINT niveles_ansiedad_pkey PRIMARY KEY (id_nivel)
+    CONSTRAINT nivel_test_pkey PRIMARY KEY (id_nivel)
 );
 
 ALTER TABLE IF EXISTS public.test_pregunta
@@ -75,19 +69,13 @@ ALTER TABLE IF EXISTS public.test_resultado
     ON DELETE NO ACTION;
 
 ALTER TABLE IF EXISTS public.test_resultado
-    ADD CONSTRAINT test_resultado_usuario_id_fkey FOREIGN KEY (usuario_id)
-    REFERENCES public.usuarios (usuario_id) MATCH SIMPLE
-    ON UPDATE NO ACTION
-    ON DELETE NO ACTION;
-
-ALTER TABLE IF EXISTS public.test_resultado
-    ADD CONSTRAINT fk_id_nivel FOREIGN KEY (id_nivel)
+    ADD CONSTRAINT test_resultado_id_nivel_fkey FOREIGN KEY (id_nivel)
     REFERENCES public.nivel_test (id_nivel) MATCH SIMPLE
     ON UPDATE NO ACTION
     ON DELETE NO ACTION;
 
 ALTER TABLE IF EXISTS public.nivel_test
-    ADD CONSTRAINT fk_niveles_ansiedad_test FOREIGN KEY (test_id)
+    ADD CONSTRAINT nivel_test_test_id_fkey FOREIGN KEY (test_id)
     REFERENCES public.test (test_id) MATCH SIMPLE
     ON UPDATE NO ACTION
     ON DELETE NO ACTION;
