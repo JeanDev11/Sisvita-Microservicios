@@ -47,7 +47,7 @@ CREATE TABLE IF NOT EXISTS public.test_resultado
 
 CREATE TABLE IF NOT EXISTS public.nivel_test
 (
-    id_nivel integer NOT NULL,
+    id_nivel serial NOT NULL,
     min_puntos integer,
     max_puntos integer,
     descripcion character varying(255),

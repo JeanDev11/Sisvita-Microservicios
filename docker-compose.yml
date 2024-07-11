@@ -37,6 +37,7 @@ services:
     volumes:
       - diagnosticos_db_data:/var/lib/postgresql/data
       - ./db/diagnosticos/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./db/diagnosticos/data.sql:/docker-entrypoint-initdb.d/data.sql
     ports:
       - "5451:5432"
     env_file:
@@ -54,33 +55,34 @@ services:
     env_file:
       - .env
 
-  # tests_db:
-  #   image: postgres
-  #   environment:
-  #     POSTGRES_DB: ${TESTS_DB}
-  #     POSTGRES_USER: ${TESTS_USER}
-  #     POSTGRES_PASSWORD: ${TESTS_PASSWORD}
-  #   volumes:
-  #     - tests_db_data:/var/lib/postgresql/data
-  #     - ./db/tests/init.sql:/docker-entrypoint-initdb.d/init.sql
-  #   ports:
-  #     - "5452:5432"
-  #   env_file:
-  #     - .env
+  tests_db:
+    image: postgres
+    environment:
+      POSTGRES_DB: ${TESTS_DB}
+      POSTGRES_USER: ${TESTS_USER}
+      POSTGRES_PASSWORD: ${TESTS_PASSWORD}
+    volumes:
+      - tests_db_data:/var/lib/postgresql/data
+      - ./db/tests/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./db/tests/data.sql:/docker-entrypoint-initdb.d/data.sql
+    ports:
+      - "5452:5432"
+    env_file:
+      - .env
 
-  # tests_service:
-  #   build:
-  #     context: ./tests_service
-  #   environment:
-  #     - DATABASE_URI=postgresql://${TESTS_USER}:${TESTS_PASSWORD}@tests_db:5432/${TESTS_DB}
-  #   depends_on:
-  #     - tests_db
-  #   ports:
-  #     - "${TESTS_SERVICE_PORT}:5000"
-  #   env_file:
-  #     - .env
+  tests_service:
+    build:
+      context: ./tests_service
+    environment:
+      - DATABASE_URI=postgresql://${TESTS_USER}:${TESTS_PASSWORD}@tests_db:5432/${TESTS_DB}
+    depends_on:
+      - tests_db
+    ports:
+      - "${TESTS_SERVICE_PORT}:5000"
+    env_file:
+      - .env
 
 volumes:
   usuarios_db_data:
-  # diagnosticos_db_data:
-  # tests_db_data:
+  diagnosticos_db_data:
+  tests_db_data:
