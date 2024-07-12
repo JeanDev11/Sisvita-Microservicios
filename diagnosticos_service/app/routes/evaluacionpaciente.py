@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from models.evaluacionpaciente import EvaluacionPaciente
+from app.models.evaluacionpaciente import EvaluacionPaciente
 from app.extensions import db
 
 evaluacionpaciente_bp = Blueprint('evaluacionpaciente', __name__)
@@ -11,8 +11,11 @@ def get_evaluacionPacienteAll():
         evaluacionPacientes = EvaluacionPaciente.query.all()
         result = [
             {
-                "id_tipo_diagnostico": ep.id_tipo_diagnostico,
-                "nombre_diagnostico": ep.nombre_diagnostico,
+                "id_evaluacion": ep.id_evaluacion,
+                "id_diagnostico": ep.id_diagnostico,
+                "especialista_id": ep.especialista_id,
+                "resultado_id": ep.resultado_id,
+                "fecha_evaluacion": ep.fecha_evaluacion,
             } for ep in evaluacionPacientes
         ]
         return jsonify(result), 200

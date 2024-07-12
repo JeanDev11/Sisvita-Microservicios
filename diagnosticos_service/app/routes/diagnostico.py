@@ -1,6 +1,5 @@
 from flask import Blueprint, request, jsonify
-from models.diagnostico import Diagnostico
-
+from app.models.diagnostico import Diagnostico
 from app.extensions import db
 
 diagnostico_bp = Blueprint('diagnostico', __name__)

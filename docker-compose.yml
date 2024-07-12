@@ -15,10 +15,13 @@ services:
       - "5450:5432"
     env_file:
       - .env
+    networks:
+      - sisvita_network
 
   usuarios_service:
     build:
       context: ./usuarios_service
+    container_name: usuarios_service
     environment:
       - DATABASE_URI=postgresql://${USUARIOS_USER}:${USUARIOS_PASSWORD}@usuarios_db:5432/${USUARIOS_DB}
     depends_on:
@@ -27,19 +30,22 @@ services:
       - "${USUARIOS_SERVICE_PORT}:5000"
     env_file:
       - .env
+    networks:
+      - sisvita_network
 
   diagnosticos_db:
-    image: postgres
+    image: mysql
     environment:
-      POSTGRES_DB: ${DIAGNOSTICOS_DB}
-      POSTGRES_USER: ${DIAGNOSTICOS_USER}
-      POSTGRES_PASSWORD: ${DIAGNOSTICOS_PASSWORD}
+      MYSQL_DATABASE: ${DIAGNOSTICOS_DB}
+      MYSQL_USER: ${DIAGNOSTICOS_USER}
+      MYSQL_PASSWORD: ${DIAGNOSTICOS_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
     volumes:
-      - diagnosticos_db_data:/var/lib/postgresql/data
-      - ./db/diagnosticos/init.sql:/docker-entrypoint-initdb.d/init.sql
-      - ./db/diagnosticos/data.sql:/docker-entrypoint-initdb.d/data.sql
+      - diagnosticos_db_data:/var/lib/mysql
+      - ./db/diagnosticos/01-init.sql:/docker-entrypoint-initdb.d/01-init.sql
+      - ./db/diagnosticos/02-data.sql:/docker-entrypoint-initdb.d/02-data.sql
     ports:
-      - "5451:5432"
+      - "5451:3306"
     env_file:
       - .env
 
@@ -47,7 +53,7 @@ services:
     build:
       context: ./diagnosticos_service
     environment:
-      - DATABASE_URI=postgresql://${DIAGNOSTICOS_USER}:${DIAGNOSTICOS_PASSWORD}@diagnosticos_db:5432/${DIAGNOSTICOS_DB}
+      - DATABASE_URI=mysql://${DIAGNOSTICOS_USER}:${DIAGNOSTICOS_PASSWORD}@diagnosticos_db:3306/${DIAGNOSTICOS_DB}
     depends_on:
       - diagnosticos_db
     ports:
@@ -63,16 +69,19 @@ services:
       POSTGRES_PASSWORD: ${TESTS_PASSWORD}
     volumes:
       - tests_db_data:/var/lib/postgresql/data
-      - ./db/tests/init.sql:/docker-entrypoint-initdb.d/init.sql
-      - ./db/tests/data.sql:/docker-entrypoint-initdb.d/data.sql
+      - ./db/tests/01-init.sql:/docker-entrypoint-initdb.d/01-init.sql
+      - ./db/tests/02-data.sql:/docker-entrypoint-initdb.d/02-data.sql
     ports:
       - "5452:5432"
     env_file:
       - .env
+    networks:
+      - sisvita_network
 
   tests_service:
     build:
       context: ./tests_service
+    container_name: tests_service
     environment:
       - DATABASE_URI=postgresql://${TESTS_USER}:${TESTS_PASSWORD}@tests_db:5432/${TESTS_DB}
     depends_on:
@@ -81,8 +90,22 @@ services:
       - "${TESTS_SERVICE_PORT}:5000"
     env_file:
       - .env
+    networks:
+      - sisvita_network
+
+  notifications_service:
+    build:
+      context: ./notifications_service
+    ports:
+      - "${NOTIFICATIONS_SERVICE_PORT}:3000"
+    env_file:
+      - .env
 
 volumes:
   usuarios_db_data:
   diagnosticos_db_data:
   tests_db_data:
+
+networks:
+  sisvita_network:
+    driver: bridge

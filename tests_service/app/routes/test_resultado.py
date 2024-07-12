@@ -1,7 +1,7 @@
 from flask import Blueprint, request, jsonify
 from app.models.test_resultado import TestResultado
 from app.extensions import db
-from schemas.test_resultado_schema import testResultados_schema
+from app.schemas.test_resultado_schema import testResultados_schema
 
 test_resultado = Blueprint('test_resultado', __name__)
 
@@ -55,24 +55,3 @@ def get_test_resultados():
         result["msg"] = f"Error al obtener resultados: {str(e)}"
         return jsonify(result), 500
     
-
-# @test_resultado.route('/test_resultado/get', methods=['GET'])
-# def get_test_resultados():
-#     result = {}
-#     try:
-#         resultados = TestResultado.query.all()
-#         result["data"] = [
-#             {
-#                 "test_id": res.test_id,
-#                 "usuario_id": res.usuario_id,
-#                 "puntaje_obtenido": res.puntaje_obtenido,
-#                 "descripcion": res.descripcion,
-#                 "fecha_creacion": res.fecha_creacion
-#             } for res in resultados
-#         ]
-#         result["status_code"] = 200
-#         return jsonify(result), 200
-#     except Exception as e:
-#         result["status_code"] = 500
-#         result["msg"] = f"Error al obtener resultados: {str(e)}"
-#         return jsonify(result), 500

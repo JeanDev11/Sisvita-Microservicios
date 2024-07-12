@@ -14,10 +14,10 @@ INSERT INTO public.nivel_test (id_nivel, min_puntos, max_puntos, descripcion, te
 (6, 45, 59, 'Ansiedad leve', 2, 'Medio'),
 (7, 60, 74, 'Ansiedad moderada', 2, 'Medio'),
 (8, 75, 80, 'Ansiedad severa', 2, 'Alto'),
-(9, 0, 7, 'Ansiedad mínima', 3, 'Bajo');
+(9, 0, 7, 'Ansiedad mínima', 3, 'Bajo'),
 (10, 8, 15, 'Ansiedad leve', 3, 'Medio'),
 (11, 16, 25, 'Ansiedad moderada', 3, 'Medio'),
-(12, 26, 63, 'Ansiedad severa', 3, 'Alto'),
+(12, 26, 63, 'Ansiedad severa', 3, 'Alto');
 
 -- Insertar datos en la tabla 'test_pregunta'
 INSERT INTO public.test_pregunta (pregunta_id, test_id, texto_pregunta, orden) VALUES
@@ -85,7 +85,7 @@ INSERT INTO public.test_pregunta (pregunta_id, test_id, texto_pregunta, orden) V
 
 
 -- Insertar datos en la tabla 'alternativa'
-INSERT INTO public.alternativa (alternativa_id, pregunta_id, alternativa, puntaje) VALUES
+INSERT INTO public.test_alternativa (alternativa_id, pregunta_id, alternativa, puntaje) VALUES
 (1, 1, 'Casi nunca', 1),
 (2, 1, 'Alguna vez', 2),
 (3, 1, 'A menudo', 3),

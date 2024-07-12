@@ -1,5 +1,5 @@
 from app.extensions import db
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, abort, jsonify
 from werkzeug.security import generate_password_hash, check_password_hash
 from app.models.especialista import Especialista
 from app.models.paciente import Paciente
@@ -239,6 +239,17 @@ def get_Usuario(usuario_id):
         return jsonify(result), 200
     except Exception as e:
         return jsonify({"status_code": 500, "msg": f"Error al obtener usuario: {str(e)}"}), 500
+    
+@usuarios_bp.route('/usuarios/schema/<int:usuario_id>', methods=['GET'])
+def get_UsuarioSchema(usuario_id):
+    usuario = Usuario.query.get(usuario_id)
+    if not usuario:
+        abort(404, description=f"El usuario con ID {usuario_id} no fue encontrado")
+
+    usuario_schema = UsuarioSchema() # Inicializar el esquema para serializar un solo usuario
+    usuario_serializado = usuario_schema.dump(usuario) # Serializar el usuario encontrado
+
+    return jsonify(usuario_serializado), 200
 
 # Función para generar un token JWT
 def generate_token(user_id):
