@@ -1,5 +1,6 @@
 import os
 from flask import Flask
+from flask_cors import CORS
 from app.extensions import db, ma
 from app.routes.nivel_test import nivel_test
 from app.routes.test_resultado import test_resultado
@@ -7,6 +8,7 @@ from app.routes.test import test_bp
 
 # Inicializar la aplicación Flask
 app = Flask(__name__)
+CORS(app)
 
 # Configurar la base de datos
 app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URI')

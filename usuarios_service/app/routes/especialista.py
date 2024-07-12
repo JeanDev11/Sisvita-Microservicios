@@ -9,14 +9,13 @@ def get_especialista(usuario_id):
     try:
         especialista = Especialista.query.filter_by(usuario_id=usuario_id).first()
         if especialista:
-            result["data"] = {
+            result = {
                 'especialista_id': especialista.especialista_id,
                 'usuario_id': especialista.usuario_id,
                 'especialidad': especialista.especialidad,
                 'nro_colegiado': especialista.nro_colegiado,
                 'direccion_consultorio': especialista.direccion_consultorio
             }
-            result["status_code"] = 200
             return jsonify(result), 200
         else:
             result["status_code"] = 404

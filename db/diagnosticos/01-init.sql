@@ -1,68 +1,41 @@
 -- diagnosticos_service/01-init.sql
-BEGIN;
 
-CREATE TABLE IF NOT EXISTS public.diagnostico
-(
-    id_diagnostico serial NOT NULL,
-    id_tipo_diagnostico integer,
-    fundamentacion_cientifica character varying,
-    CONSTRAINT diagnostico_pkey PRIMARY KEY (id_diagnostico)
+CREATE TABLE IF NOT EXISTS diagnostico (
+    id_diagnostico INT AUTO_INCREMENT PRIMARY KEY,
+    id_tipo_diagnostico INT,
+    fundamentacion_cientifica VARCHAR(255)
 );
 
-CREATE TABLE IF NOT EXISTS public.evaluacionpaciente
-(
-    id_evaluacion integer NOT NULL GENERATED ALWAYS AS IDENTITY,
-    id_diagnostico integer,
-    especialista_id integer,
-    resultado_id integer,
-    fecha_evaluacion timestamp with time zone,
-    CONSTRAINT evaluacionpaciente_pkey PRIMARY KEY (id_evaluacion)
+CREATE TABLE IF NOT EXISTS evaluacionpaciente (
+    id_evaluacion INT AUTO_INCREMENT PRIMARY KEY,
+    id_diagnostico INT,
+    especialista_id INT,
+    resultado_id INT,
+    fecha_evaluacion TIMESTAMP,
+    FOREIGN KEY (id_diagnostico) REFERENCES diagnostico(id_diagnostico)
 );
 
-CREATE TABLE IF NOT EXISTS public.tratamiento
-(
-    id_tratamiento serial NOT NULL,
-    id_tipo_tratamiento integer,
-    id_diagnostico integer,
-    CONSTRAINT tratamiento_pkey PRIMARY KEY (id_tratamiento)
+CREATE TABLE IF NOT EXISTS tratamiento (
+    id_tratamiento INT AUTO_INCREMENT PRIMARY KEY,
+    id_tipo_tratamiento INT,
+    id_diagnostico INT,
+    FOREIGN KEY (id_diagnostico) REFERENCES diagnostico(id_diagnostico)
 );
 
-CREATE TABLE IF NOT EXISTS public.tiposdiagnostico
-(
-    id_tipo_diagnostico serial NOT NULL,
-    nombre_diagnostico character varying(100),
-    CONSTRAINT tiposdiagnostico_pkey PRIMARY KEY (id_tipo_diagnostico)
+CREATE TABLE IF NOT EXISTS tiposdiagnostico (
+    id_tipo_diagnostico INT AUTO_INCREMENT PRIMARY KEY,
+    nombre_diagnostico VARCHAR(100)
 );
 
-CREATE TABLE IF NOT EXISTS public.tipostratamiento
-(
-    id_tipo_tratamiento serial NOT NULL,
-    nombre_tratamiento character varying(100),
-    CONSTRAINT tipostratamiento_pkey PRIMARY KEY (id_tipo_tratamiento)
+CREATE TABLE IF NOT EXISTS tipostratamiento (
+    id_tipo_tratamiento INT AUTO_INCREMENT PRIMARY KEY,
+    nombre_tratamiento VARCHAR(100)
 );
 
-ALTER TABLE IF EXISTS public.diagnostico
-    ADD CONSTRAINT diagnostico_id_tipo_diagnostico_fkey FOREIGN KEY (id_tipo_diagnostico)
-    REFERENCES public.tiposdiagnostico (id_tipo_diagnostico) MATCH SIMPLE
-    ON UPDATE NO ACTION
-    ON DELETE NO ACTION;
+ALTER TABLE diagnostico
+    ADD CONSTRAINT FOREIGN KEY (id_tipo_diagnostico)
+    REFERENCES tiposdiagnostico(id_tipo_diagnostico);
 
-ALTER TABLE IF EXISTS public.evaluacionpaciente
-    ADD CONSTRAINT evaluacionpaciente_id_diagnostico_fkey FOREIGN KEY (id_diagnostico)
-    REFERENCES public.diagnostico (id_diagnostico) MATCH SIMPLE
-    ON UPDATE NO ACTION
-    ON DELETE NO ACTION;
-
-ALTER TABLE IF EXISTS public.tratamiento
-    ADD CONSTRAINT tratamiento_id_diagnostico_fkey FOREIGN KEY (id_diagnostico)
-    REFERENCES public.diagnostico (id_diagnostico) MATCH SIMPLE
-    ON UPDATE NO ACTION
-    ON DELETE NO ACTION;
-
-ALTER TABLE IF EXISTS public.tratamiento
-    ADD CONSTRAINT tratamiento_id_tipo_tratamiento_fkey FOREIGN KEY (id_tipo_tratamiento)
-    REFERENCES public.tipostratamiento (id_tipo_tratamiento) MATCH SIMPLE
-    ON UPDATE NO ACTION
-    ON DELETE NO ACTION;
-
-END;
+ALTER TABLE tratamiento
+    ADD CONSTRAINT FOREIGN KEY (id_tipo_tratamiento)
+    REFERENCES tipostratamiento(id_tipo_tratamiento);
